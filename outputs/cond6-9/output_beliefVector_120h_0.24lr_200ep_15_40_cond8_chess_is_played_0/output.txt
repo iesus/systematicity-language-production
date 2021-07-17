@@ -1,0 +1,134 @@
+NEW BEST Epoch: 0 lr: 0.24 similarity: 0.438930106526583
+NEW BEST Epoch: 1 lr: 0.24 similarity: 0.5884078891838959
+NEW BEST Epoch: 2 lr: 0.24 similarity: 0.6847974895164493
+Epoch: 3 lr: 0.24 similarity: 0.6413956592438136
+Epoch: 4 lr: 0.24 similarity: 0.6691333275225892
+NEW BEST Epoch: 5 lr: 0.24 similarity: 0.720784726552344
+NEW BEST Epoch: 6 lr: 0.24 similarity: 0.7239666001410968
+NEW BEST Epoch: 7 lr: 0.24 similarity: 0.7336763115706069
+NEW BEST Epoch: 8 lr: 0.24 similarity: 0.7564019127777517
+Epoch: 9 lr: 0.24 similarity: 0.7289843452595131
+Epoch: 10 lr: 0.24 similarity: 0.7398767060679812
+NEW BEST Epoch: 11 lr: 0.24 similarity: 0.7685056554184071
+Epoch: 12 lr: 0.24 similarity: 0.7600748431285343
+NEW BEST Epoch: 13 lr: 0.24 similarity: 0.8008106383735578
+NEW BEST Epoch: 14 lr: 0.24 similarity: 0.8032832333587367
+NEW BEST Epoch: 15 lr: 0.24 similarity: 0.8095024638858531
+Epoch: 16 lr: 0.24 similarity: 0.8051723258099097
+NEW BEST Epoch: 17 lr: 0.24 similarity: 0.8198351937026435
+NEW BEST Epoch: 18 lr: 0.24 similarity: 0.8276874062738158
+Epoch: 19 lr: 0.24 similarity: 0.8113134511834177
+Epoch: 20 lr: 0.24 similarity: 0.82202207980312
+NEW BEST Epoch: 21 lr: 0.24 similarity: 0.8448076462128477
+Epoch: 22 lr: 0.24 similarity: 0.8423070148531557
+NEW BEST Epoch: 23 lr: 0.24 similarity: 0.8584180151503978
+Epoch: 24 lr: 0.24 similarity: 0.8524455037877857
+Epoch: 25 lr: 0.24 similarity: 0.8477787941923849
+Epoch: 26 lr: 0.24 similarity: 0.8466960588814616
+Epoch: 27 lr: 0.24 similarity: 0.814032423113799
+NEW BEST Epoch: 28 lr: 0.24 similarity: 0.875854409851893
+Epoch: 29 lr: 0.24 similarity: 0.8554056239249191
+Epoch: 30 lr: 0.24 similarity: 0.8533884134135812
+Epoch: 31 lr: 0.24 similarity: 0.8523002561383434
+Epoch: 32 lr: 0.24 similarity: 0.8501626449613027
+Epoch: 33 lr: 0.24 similarity: 0.8377178679821298
+Epoch: 34 lr: 0.24 similarity: 0.8377920806821815
+Epoch: 35 lr: 0.24 similarity: 0.8441014638791485
+Epoch: 36 lr: 0.24 similarity: 0.8510143636192294
+NEW BEST Epoch: 37 lr: 0.24 similarity: 0.8774988504225081
+Epoch: 38 lr: 0.24 similarity: 0.8529391935432205
+Epoch: 39 lr: 0.24 similarity: 0.8645284921081902
+Epoch: 40 lr: 0.24 similarity: 0.8757118953008215
+Epoch: 41 lr: 0.24 similarity: 0.8469250594670058
+NEW BEST Epoch: 42 lr: 0.24 similarity: 0.8775502764386993
+Epoch: 43 lr: 0.24 similarity: 0.8387632664688034
+Epoch: 44 lr: 0.24 similarity: 0.8549717364104948
+Epoch: 45 lr: 0.24 similarity: 0.8604869892411838
+Epoch: 46 lr: 0.24 similarity: 0.8464465763542944
+Epoch: 47 lr: 0.24 similarity: 0.8578578184492615
+NEW BEST Epoch: 48 lr: 0.24 similarity: 0.8857487078544126
+Epoch: 49 lr: 0.24 similarity: 0.8588906502706838
+Epoch: 50 lr: 0.24 similarity: 0.8528229251173882
+Epoch: 51 lr: 0.24 similarity: 0.862307952114999
+Epoch: 52 lr: 0.24 similarity: 0.8651846173029059
+Epoch: 53 lr: 0.24 similarity: 0.8747030397827379
+NEW BEST Epoch: 54 lr: 0.24 similarity: 0.8878873340492468
+Epoch: 55 lr: 0.24 similarity: 0.859255414142159
+Epoch: 56 lr: 0.24 similarity: 0.8715291000945363
+NEW BEST Epoch: 57 lr: 0.24 similarity: 0.8942152622731482
+Epoch: 58 lr: 0.24 similarity: 0.8862987334254113
+Epoch: 59 lr: 0.24 similarity: 0.868725362538282
+Epoch: 60 lr: 0.24 similarity: 0.8817512162520553
+Epoch: 61 lr: 0.24 similarity: 0.8824645642388931
+NEW BEST Epoch: 62 lr: 0.24 similarity: 0.9072947373282942
+Epoch: 63 lr: 0.24 similarity: 0.8693006727612433
+Epoch: 64 lr: 0.24 similarity: 0.8571923625405169
+Epoch: 65 lr: 0.24 similarity: 0.892247647952346
+Epoch: 66 lr: 0.24 similarity: 0.8673361523822932
+Epoch: 67 lr: 0.24 similarity: 0.8587711202853822
+Epoch: 68 lr: 0.24 similarity: 0.9059392602177838
+Epoch: 69 lr: 0.24 similarity: 0.8820675665684055
+Epoch: 70 lr: 0.24 similarity: 0.8955397557327088
+Epoch: 71 lr: 0.24 similarity: 0.8868046476267955
+Epoch: 72 lr: 0.24 similarity: 0.8904954897824026
+Epoch: 73 lr: 0.24 similarity: 0.9045194109581693
+Epoch: 74 lr: 0.24 similarity: 0.8879223242268545
+Epoch: 75 lr: 0.24 similarity: 0.8666257051114434
+Epoch: 76 lr: 0.24 similarity: 0.8831928767541183
+Epoch: 77 lr: 0.24 similarity: 0.8737358721628855
+Epoch: 78 lr: 0.12 similarity: 0.8663004338130178
+NEW BEST Epoch: 79 lr: 0.12 similarity: 0.9097023991109562
+Epoch: 80 lr: 0.12 similarity: 0.8818536003519224
+Epoch: 81 lr: 0.12 similarity: 0.8750068676662638
+Epoch: 82 lr: 0.12 similarity: 0.9031402625152624
+Epoch: 83 lr: 0.12 similarity: 0.8944342104577004
+Epoch: 84 lr: 0.12 similarity: 0.9019788004687334
+Epoch: 85 lr: 0.12 similarity: 0.8794849003531889
+Epoch: 86 lr: 0.12 similarity: 0.8937338039477299
+Epoch: 87 lr: 0.12 similarity: 0.885087356249269
+Epoch: 88 lr: 0.12 similarity: 0.8849146984633562
+Epoch: 89 lr: 0.12 similarity: 0.886160949415983
+Epoch: 90 lr: 0.12 similarity: 0.875621945168925
+Epoch: 91 lr: 0.12 similarity: 0.8977041461521327
+NEW BEST Epoch: 92 lr: 0.12 similarity: 0.917391771166939
+Epoch: 93 lr: 0.12 similarity: 0.8905099817222301
+Epoch: 94 lr: 0.12 similarity: 0.8796603028775848
+Epoch: 95 lr: 0.12 similarity: 0.8783329389663281
+Epoch: 96 lr: 0.12 similarity: 0.9014750164079022
+Epoch: 97 lr: 0.12 similarity: 0.8950272578838017
+Epoch: 98 lr: 0.12 similarity: 0.8914991538103954
+Epoch: 99 lr: 0.12 similarity: 0.8885082758404906
+Epoch: 100 lr: 0.12 similarity: 0.8838021970572305
+Epoch: 101 lr: 0.12 similarity: 0.8788868127584569
+Epoch: 102 lr: 0.12 similarity: 0.9112263598631049
+Epoch: 103 lr: 0.12 similarity: 0.8801364277035417
+Epoch: 104 lr: 0.12 similarity: 0.8839121984465944
+Epoch: 105 lr: 0.12 similarity: 0.885942718262349
+Epoch: 106 lr: 0.12 similarity: 0.8792089365705138
+Epoch: 107 lr: 0.12 similarity: 0.9155589679708808
+Epoch: 108 lr: 0.06 similarity: 0.8867166413936549
+Epoch: 109 lr: 0.06 similarity: 0.8825408954393853
+Epoch: 110 lr: 0.06 similarity: 0.8841562380572449
+Epoch: 111 lr: 0.06 similarity: 0.8910291121071323
+Epoch: 112 lr: 0.06 similarity: 0.8851800301674463
+Epoch: 113 lr: 0.06 similarity: 0.8843953585564325
+Epoch: 114 lr: 0.06 similarity: 0.8850864459924862
+Epoch: 115 lr: 0.06 similarity: 0.8779289735246111
+Epoch: 116 lr: 0.06 similarity: 0.8994337225041922
+Epoch: 117 lr: 0.06 similarity: 0.88806983471413
+Epoch: 118 lr: 0.06 similarity: 0.8668257753618492
+Epoch: 119 lr: 0.06 similarity: 0.8889028407275051
+Epoch: 120 lr: 0.06 similarity: 0.8695206382916112
+Epoch: 121 lr: 0.06 similarity: 0.8863324338785747
+Epoch: 122 lr: 0.06 similarity: 0.9024519687061634
+Epoch: 123 lr: 0.03 similarity: 0.8903030531176506
+Epoch: 124 lr: 0.03 similarity: 0.8895521098960696
+Epoch: 125 lr: 0.03 similarity: 0.9031546613341916
+Epoch: 126 lr: 0.03 similarity: 0.8807881296555794
+Epoch: 127 lr: 0.03 similarity: 0.8934501972673115
+Epoch: 128 lr: 0.03 similarity: 0.8809435484351592
+Epoch: 129 lr: 0.03 similarity: 0.8950939929757044
+Epoch: 130 lr: 0.03 similarity: 0.8900793953436571
+Epoch: 131 lr: 0.03 similarity: 0.9048743412627641
+Epoch: 132 lr: 0.03 similarity: 0.8908364822165159
+BEST RESULT: epoch 92 Similarity: 0.917391771166939 with the model ../outputs/prod_main_mon_5cond2_outputs/output_beliefVector_120h_0.24lr_200ep_15_40_cond8_chess_is_played_0

@@ -1,0 +1,1811 @@
+FOLD:0
+
+charlie plays chess in the bathroom .
+	the boy plays a game .
+	charlie plays .
+	charlie plays a girl in the street .
+
+charlie plays chess in the playground .
+	the boy plays a game .
+	charlie plays a game .
+	the boy plays a game outside .
+	charlie plays a game badly .
+	charlie plays a game outside .
+
+charlie plays chess in the street .
+	the boy plays a game .
+	a girl plays a game .
+	charlie plays a game in the street .
+	a girl plays a game in the street .
+	heidi plays a game in the street .
+	heidi plays a game .
+	a girl plays a game badly .
+	charlie plays a game .
+
+heidi plays chess in the bathroom .
+	heidi plays a game in the street .
+	heidi plays a girl in the street .
+
+heidi plays chess in the playground .
+	heidi plays a game .
+	heidi plays a game badly .
+	heidi plays a game outside .
+	heidi plays .
+
+heidi plays chess in the street .
+	someone plays a game in the street .
+	heidi plays a game in the street .
+	someone plays football in the street .
+	someone plays soccer in the street .
+	heidi plays chess in the street .
+	heidi plays chess .
+
+sophia plays chess in the bathroom .
+	sophia plays a game in the street .
+	sophia plays a girl in the street .
+
+sophia plays chess in the playground .
+	sophia plays a game badly .
+	sophia plays a game .
+	someone plays a game badly .
+	sophia plays a game outside .
+	someone plays a game outside .
+	someone plays a game .
+
+sophia plays chess in the street .
+	the boy plays a game .
+	charlie plays a game in the street .
+	sophia plays a game in the street .
+	sophia plays a game .
+	sophia plays chess .
+	sophia plays chess well .
+	sophia plays chess in the street .
+	sophia plays chess well in the street .
+
+charlie plays hide_and_seek in the street .
+	charlie plays hide_and_seek .
+	the boy plays hide_and_seek .
+	the boy plays hide_and_seek outside .
+
+heidi plays hide_and_seek in the street .
+	heidi plays hide_and_seek .
+	the boy plays hide_and_seek outside .
+	someone plays hide_and_seek outside .
+	someone plays hide_and_seek badly outside .
+	charlie plays hide_and_seek outside .
+	heidi plays hide_and_seek outside .
+	charlie plays hide_and_seek .
+	someone plays hide_and_seek .
+	charlie plays hide_and_seek badly outside .
+	the boy plays a game in the playground .
+	the boy plays a game .
+	charlie plays hide_and_seek badly in the playground .
+
+sophia plays hide_and_seek in the street .
+	sophia plays hide_and_seek outside .
+	sophia plays hide_and_seek in the playground .
+	sophia plays hide_and_seek .
+	the boy plays hide_and_seek outside .
+	the boy plays hide_and_seek in the playground .
+	the boy plays a game in the playground .
+	the boy plays a game in the bathroom .
+	the boy plays a game in the shower .
+
+charlie plays soccer in the bathroom .
+	the boy plays in the street .
+	charlie plays in the street .
+	charlie plays at a game in the street .
+	charlie plays at a game .
+
+charlie plays soccer in the playground .
+	the boy plays outside .
+	charlie plays outside .
+
+charlie plays soccer in the bedroom .
+	the boy plays in the bedroom .
+	charlie plays in the bedroom .
+
+heidi plays soccer in the bathroom .
+	heidi plays a game in the street .
+	heidi plays in the street in the street .
+	heidi plays in the street at a game .
+	heidi plays in the street .
+
+heidi plays soccer in the playground .
+	heidi plays outside .
+	heidi plays a game outside .
+
+heidi plays soccer in the bedroom .
+	heidi plays in the bedroom .
+	someone plays in the bedroom .
+
+sophia plays soccer in the bathroom .
+	someone plays in the street .
+	sophia plays in the street .
+	a girl plays in the street .
+	sophia plays a game in the street .
+	sophia plays in the street in the street .
+	sophia plays in the street at a game .
+
+sophia plays soccer in the playground .
+	someone plays outside .
+	someone plays a game outside .
+	sophia plays a game outside .
+	sophia plays outside .
+
+sophia plays soccer in the bedroom .
+	someone plays in the bedroom .
+	sophia plays in the bedroom .
+	sophia plays .
+
+chess is played by charlie in the bathroom .
+	a game is played by the boy in the street .
+	a game is played by charlie in the street .
+	a game is the boy in the street .
+	a game is played in the street .
+	a game is played by the boy .
+	a game is the boy .
+
+chess is played by charlie in the playground .
+	a game is played by the boy .
+	a game is played by charlie .
+
+chess is played by charlie in the street .
+	a game is played by the boy .
+	a game is played by charlie .
+	a game is played by charlie in the street .
+
+chess is played by heidi in the bathroom .
+	a game is played by heidi in the street .
+	a game is played .
+	a game is played in the street .
+	a game is played by heidi .
+	a game is played inside .
+
+chess is played by heidi in the playground .
+	a game is played badly .
+	a game is played .
+	a game is played by heidi .
+	a game is played badly by someone .
+	a game is played by a girl .
+
+chess is played by heidi in the street .
+	a game is played by heidi .
+	a game is played by heidi in the street .
+
+chess is played by sophia in the bathroom .
+	a game is played inside .
+	a game is played by sophia in the street .
+	a game is played in the street .
+	a game is played .
+	a game is played by sophia .
+
+chess is played by sophia in the playground .
+	a game is played by sophia .
+	a game is played sophia .
+	a game is played by sophia outside .
+
+chess is played by sophia in the street .
+	a game is played by sophia .
+	a game is played by sophia in the street .
+
+hide_and_seek is played by charlie in the street .
+	hide_and_seek is played by charlie .
+	hide_and_seek is played by the boy .
+
+hide_and_seek is played by heidi in the street .
+	hide_and_seek is played by heidi in the playground .
+	hide_and_seek is played by heidi .
+	hide_and_seek is played by heidi outside .
+
+hide_and_seek is played by sophia in the street .
+	hide_and_seek is played by sophia .
+	hide_and_seek is played by sophia outside .
+	hide_and_seek is played by sophia by the boy .
+	hide_and_seek is played by sophia in the playground .
+	hide_and_seek is played by sophia in the bathroom .
+	hide_and_seek is played by sophia in the shower .
+	hide_and_seek is played by sophia by the bathroom .
+	hide_and_seek is played by sophia by the shower .
+
+soccer is played by charlie in the bathroom .
+	a game is played by the boy in the street .
+	a game is played by charlie in the street .
+	a game is played in the street by the boy in the street .
+	a game is played in the street by charlie in the street .
+
+soccer is played by charlie in the playground .
+	a game is played outside .
+	a game is played by the boy outside .
+	a game is played by charlie outside .
+	a game is played outside by the boy outside .
+	a game is played outside by charlie .
+	a game is played outside by charlie outside .
+	a game is played outside by the boy .
+
+soccer is played by charlie in the bedroom .
+	a game is played by the boy .
+	a game is played by charlie .
+	a game is played by charlie in the bedroom .
+	a game is played by the boy in the bedroom .
+
+soccer is played by heidi in the bathroom .
+	a game is played by heidi in the street .
+	a game is played in the street by a girl in the street .
+	a game is played in the street by heidi in the street .
+	a game is played in the street .
+	a game is played in the street by a girl .
+	a game is played in in the street by a girl in the street .
+	a game is played in in the street .
+	a game is played in in the street by a girl .
+	a game is played in in the street in the street .
+	a game is played in in the street in the street by a girl in the
+	a game is played in in the street in the street by a girl .
+
+soccer is played by heidi in the playground .
+	a game is played by heidi outside .
+	a game is played outside .
+
+soccer is played by heidi in the bedroom .
+	a game is played by heidi in the bedroom .
+
+soccer is played by sophia in the bathroom .
+	a game is played in the street .
+	a game is played in in the street .
+	a game is played in the street by sophia in the street .
+	a game is played in the street in the street .
+	a game is played in the street by a girl in the street .
+	a game is played in the street by sophia .
+
+soccer is played by sophia in the playground .
+	a game is played with outside .
+	a game is played with by someone outside .
+	a game is played with by sophia outside .
+	a game is played with outside by someone outside .
+	a game is played with a toy outside .
+	a game is played with outside by sophia outside .
+	a game is played with outside by sophia .
+
+soccer is played by sophia in the bedroom .
+	a game is played by sophia in the bedroom .
+	a game is played in the bedroom .
+
+FOLD:1
+
+charlie plays chess in the bathroom .
+	charlie plays a game in the street .
+	the boy plays a game in the street .
+	someone plays a game in the street .
+	charlie plays in the street .
+	someone plays in the street .
+	someone boy in the street at a game .
+	someone boy in the street .
+	charlie plays in the street at a game .
+	someone plays in the street at a game .
+
+charlie plays chess in the playground .
+	charlie plays a game outside .
+	the boy plays a game outside .
+
+charlie plays chess in the street .
+	charlie plays a game in the street .
+	the boy plays a game in the street .
+	charlie plays a game .
+	a girl plays a game in the street .
+	someone plays a game .
+	a girl plays a game .
+	a girl .
+	the boy plays soccer .
+	the boy plays football .
+	someone plays a game inside .
+	a girl plays a game inside .
+	someone plays a game in the street .
+	someone plays at a game .
+
+heidi plays chess in the bathroom .
+	heidi plays a game in the street .
+	a girl at a game in the street .
+	a girl .
+	a girl in the street at a game .
+	a girl plays a game in the street .
+	a girl in the street .
+	a girl plays in the street .
+	a girl beats heidi in the street .
+	a girl beats heidi in the street at a game .
+	a girl plays at a game in the street .
+	a girl beats heidi at a game in the street .
+	a girl beats someone in the street .
+	a girl beats someone at a game .
+	a girl beats heidi at a game .
+	a girl beats the boy in the street .
+	a girl beats someone in the street at a game .
+	a girl plays in the street at a game .
+	a girl beats the boy at a game in the street .
+	a girl beats the boy at a game .
+	a girl beats the boy in the street at a game .
+	a girl beats someone at a game in the street .
+
+heidi plays chess in the playground .
+	heidi plays a game outside .
+
+heidi plays chess in the street .
+	charlie plays a game in the street .
+	heidi plays a game in the street .
+	the boy plays soccer .
+	the boy plays football .
+	the boy plays a game in the street .
+	charlie plays chess .
+	heidi plays chess .
+	heidi plays at a game .
+	heidi plays at chess .
+	heidi plays at a game in the street .
+	heidi plays a game .
+
+sophia plays chess in the bathroom .
+	sophia plays a game in the street .
+	sophia plays in the street .
+	a girl in the street .
+	a girl in the street at a game .
+	a girl at a game in the street .
+	a girl plays in the street .
+	a girl plays at a game in the street .
+
+sophia plays chess in the playground .
+	sophia plays a game outside .
+	someone plays a game outside .
+
+sophia plays chess in the street .
+	sophia plays chess .
+	sophia plays at a game in the street .
+	sophia plays a game in the street .
+	sophia plays at chess .
+	charlie plays a game in the street .
+	charlie plays chess .
+	sophia loses to someone in the street .
+	sophia loses at a game in the street .
+	charlie plays chess in the street .
+	charlie wins at a game in the street .
+	sophia loses to someone at a game .
+	sophia loses at a game .
+	sophia loses to someone in the street at a game .
+	sophia loses to someone at a game in the street .
+	sophia loses to someone at soccer .
+	charlie wins at soccer .
+	sophia loses to someone at football .
+	sophia loses to a girl in the street .
+	charlie wins at football .
+	sophia loses to a girl at soccer .
+	sophia loses to a girl at football .
+	sophia loses to a girl at a game in the street .
+	sophia loses to a girl at soccer in the street .
+	sophia loses to a girl in the street at a game .
+	sophia loses to a girl at football in the street .
+
+charlie plays hide_and_seek in the street .
+	a girl plays hide_and_seek well .
+	a girl plays hide_and_seek .
+	the boy plays hide_and_seek well .
+	a girl plays a game .
+	a girl plays hide_and_seek outside .
+	charlie plays hide_and_seek well .
+	charlie plays a game well .
+	the boy plays a game well .
+	charlie plays hide_and_seek .
+	charlie plays a game .
+	the boy plays a game outside .
+	charlie plays a game is played .
+
+heidi plays hide_and_seek in the street .
+	heidi plays hide_and_seek .
+	someone loses to a game in the playground .
+	someone plays hide_and_seek .
+	heidi plays hide_and_seek outside .
+	a girl plays hide_and_seek outside .
+	a girl plays hide_and_seek in the playground .
+	someone plays hide_and_seek outside .
+	someone loses to a girl at hide_and_seek .
+	someone plays a game in the playground .
+	heidi plays a game in the playground .
+	heidi plays hide_and_seek in the playground .
+	a girl plays a game in the playground .
+	heidi loses at hide_and_seek .
+	someone plays hide_and_seek in the playground .
+	someone plays a game .
+	someone loses to a game at hide_and_seek .
+	heidi loses to a game in the playground .
+	a girl beats heidi in the playground .
+	a girl beats heidi at hide_and_seek outside .
+	a girl beats heidi at a game .
+	a girl beats heidi at hide_and_seek in the playground .
+	heidi loses to a girl at hide_and_seek .
+	heidi plays a game .
+	someone loses to a game at a game .
+	a girl beats a girl at hide_and_seek .
+	heidi loses at a game .
+	a girl beats a girl at hide_and_seek outside .
+	a girl beats a girl at hide_and_seek in the playground .
+	heidi loses to a game at hide_and_seek .
+	heidi loses to a game at a game .
+
+sophia plays hide_and_seek in the street .
+	sophia plays hide_and_seek outside .
+	sophia loses at hide_and_seek outside .
+	sophia plays hide_and_seek in the playground .
+	sophia loses to someone at hide_and_seek outside .
+	sophia plays a game in the playground .
+	sophia loses at a game in the playground .
+	sophia loses at hide_and_seek .
+	sophia plays hide_and_seek well .
+	sophia loses to someone outside at hide_and_seek .
+	sophia loses to someone at a game .
+	sophia loses to someone at hide_and_seek in the playground .
+	sophia loses to someone at hide_and_seek .
+	sophia loses at a game .
+	sophia loses at a game outside .
+	sophia plays hide_and_seek well outside .
+	sophia loses to a girl at hide_and_seek outside .
+	sophia loses to a girl at hide_and_seek well .
+	sophia loses to someone at a game in the playground .
+	sophia loses to a girl at a game .
+	sophia loses to a girl at a game in the playground .
+	sophia loses to a girl at a game outside .
+	sophia loses to a girl at a game well .
+
+charlie plays soccer in the bathroom .
+	the boy plays a game in the street .
+	the boy plays with a ball .
+	charlie plays with a game outside .
+	charlie plays with a game in the street .
+	charlie plays with a toy outside .
+	charlie plays a game in the street .
+	someone plays with a game outside .
+	charlie plays with a ball outside .
+	the boy plays with a toy .
+	someone plays with a game in the street .
+	the boy plays a game outside .
+	charlie plays a game outside .
+	the boy plays with a toy outside .
+	someone plays a game in the street .
+	the boy plays with a game in the street .
+	charlie plays with a ball .
+	someone plays outside at a game .
+	the boy plays with a game outside .
+	charlie plays with a toy in the street .
+	someone plays with a toy outside .
+	someone plays a game outside .
+	charlie plays with a ball in the street .
+	the boy plays with a toy in the street .
+	someone plays outside .
+	someone plays outside with a game .
+	someone plays with a toy in the street .
+	someone plays with a toy .
+	someone plays outside with a ball .
+	someone plays outside with a toy .
+
+charlie plays soccer in the playground .
+	the boy plays outside .
+	charlie plays outside .
+	the boy plays someone outside .
+
+charlie plays soccer in the bedroom .
+	the boy plays someone .
+	charlie plays in the bedroom .
+	the boy plays a game in the bedroom .
+	the boy plays someone in the bedroom .
+	charlie plays at a game in the bedroom .
+	charlie plays at a game .
+
+heidi plays soccer in the bathroom .
+	heidi plays a game in the street .
+	heidi plays a game outside .
+
+heidi plays soccer in the playground .
+	heidi plays outside .
+	heidi plays a game outside .
+	heidi plays outside outside .
+
+heidi plays soccer in the bedroom .
+	heidi plays in the bedroom .
+	heidi plays at a game in the bedroom .
+	heidi plays at a game .
+
+sophia plays soccer in the bathroom .
+	sophia plays a game in the street .
+	someone plays a game in the street .
+
+sophia plays soccer in the playground .
+	sophia plays outside .
+	sophia plays a game outside .
+	someone plays a game outside .
+	sophia plays outside outside .
+	someone plays outside .
+	someone plays outside outside .
+
+sophia plays soccer in the bedroom .
+	sophia plays in the bedroom .
+	sophia plays chess .
+	sophia plays a game in the bedroom .
+	sophia plays a game .
+
+chess is played by charlie in the bathroom .
+	a ball .
+	a toy .
+	a boy .
+	a game .
+	a game is .
+	a game is by charlie .
+	a game is by charlie in the street .
+	a game is the street .
+	a game is by the boy in the street .
+	a game is by the boy .
+	a game is lost .
+	a game is lost by the boy .
+	a game is lost by charlie .
+	a game is lost by charlie in the street .
+	a game is the boy .
+	a game is lost by the boy in the street .
+	a game is the boy in the street .
+
+chess is played by charlie in the playground .
+	a game .
+	a toy .
+	a game is the boy .
+	a game is the street .
+	a game is charlie outside .
+	a game is the by the boy .
+	a game is the by charlie .
+	a game is charlie by someone .
+	a game is the by .
+	a game is charlie by the boy .
+	a game is charlie by charlie .
+	a game is charlie by charlie outside .
+
+chess is played by charlie in the street .
+	a game .
+	a game is .
+	a game is lost by charlie .
+	a game is lost by the boy .
+
+chess is played by heidi in the bathroom .
+	a ball .
+	a toy .
+	a game is by heidi .
+	a game .
+	a game is by heidi in the street .
+	a game is by charlie in the street .
+	a game is by charlie .
+
+chess is played by heidi in the playground .
+	a game is by heidi .
+	a ball .
+	a toy .
+	a game is by heidi outside .
+	a toy is by heidi .
+	a toy is lost by heidi .
+
+chess is played by heidi in the street .
+	a game is .
+	a game is by heidi .
+	a game is lost by heidi .
+	a game is by charlie .
+	a game is by the boy .
+	a game is by charlie in the street .
+
+chess is played by sophia in the bathroom .
+	a toy .
+	a game .
+	a game is by .
+	a game is by charlie .
+	a game is by the boy .
+	a game is by sophia .
+	a game is by charlie in the street .
+	a game is by the boy in the street .
+
+chess is played by sophia in the playground .
+	a game is by sophia .
+	a game is .
+	a game is lost .
+	a game is lost by someone .
+	a game is lost by sophia .
+
+chess is played by sophia in the street .
+	a game is by sophia .
+	a game is by the boy .
+	a game is lost by someone .
+	a game is by charlie .
+	a game is lost by sophia .
+	chess is played by the boy .
+	a game is lost .
+	chess is played by charlie .
+	chess is lost by sophia .
+	chess is played by sophia .
+	a game is lost by someone in the street .
+	a game is by charlie in the street .
+	chess is lost by someone .
+	chess is played by charlie in the street .
+	a game is lost by sophia in the street .
+	chess is lost by someone in the street .
+
+hide_and_seek is played by charlie in the street .
+	hide_and_seek is played by the boy outside .
+	hide_and_seek is played by charlie outside .
+	hide_and_seek is played by the boy .
+	a game is played by the boy .
+	a game is played by charlie outside .
+	a game is played by the boy outside .
+	hide_and_seek is played by the boy in the playground .
+	a game is played by charlie in the playground .
+	hide_and_seek is played by charlie in the playground .
+	a game is won by the boy outside .
+	a game is won by charlie outside .
+	a game is won by charlie in the playground .
+	a game is won by the boy .
+	hide_and_seek is played by charlie by someone outside .
+	hide_and_seek is played by charlie by the boy .
+	hide_and_seek is played by charlie by someone .
+	hide_and_seek is played by charlie by a game .
+	a game is won by the boy in the playground .
+	hide_and_seek is played by charlie by a girl .
+	hide_and_seek is played by charlie by someone by the boy .
+	hide_and_seek is played by charlie by someone by .
+	hide_and_seek is played by charlie by someone by charlie .
+	hide_and_seek is played by charlie by someone by charlie outside .
+
+hide_and_seek is played by heidi in the street .
+	hide_and_seek is played by heidi in the playground .
+	hide_and_seek is played by heidi outside .
+	hide_and_seek is played by heidi .
+	a game is played by heidi in the playground .
+	a game is played by heidi outside .
+
+hide_and_seek is played by sophia in the street .
+	hide_and_seek is played by sophia in the playground .
+	hide_and_seek is played by sophia outside .
+
+soccer is played by charlie in the bathroom .
+	a ball is played by the boy in the street .
+	a game is played by the boy in the street .
+	a ball is played by charlie in the street .
+	a toy is played by the boy in the street .
+	a game is played by charlie in the street .
+	a toy is played by charlie in the street .
+
+soccer is played by charlie in the playground .
+	a game is played outside .
+	a game is played by the boy outside .
+	a game is played by charlie outside .
+	the boy is played outside .
+	the boy outside .
+
+soccer is played by charlie in the bedroom .
+	a game is played by charlie .
+	a game is played by the boy .
+	soccer is played by charlie .
+	football is played by charlie .
+	chess is played by charlie .
+	chess is played by the boy .
+	soccer is played by the boy .
+	football is played by the boy .
+
+soccer is played by heidi in the bathroom .
+	a ball is played by heidi .
+	a game is played by heidi .
+	a toy is played by heidi .
+	a game is played with a ball .
+	a ball is played with a ball .
+	a game is played by heidi outside .
+	a ball is played with a by heidi .
+	a game is played with a by heidi .
+
+soccer is played by heidi in the playground .
+	a game is played by heidi outside .
+	a game is played outside .
+	a game is heidi outside .
+	a ball is heidi outside .
+	a game is heidi by heidi outside .
+	a ball is heidi by heidi outside .
+	a ball is played by heidi outside .
+	a ball is played outside .
+
+soccer is played by heidi in the bedroom .
+	a game is played by heidi .
+
+soccer is played by sophia in the bathroom .
+	a game is played by sophia .
+	a toy is played by sophia .
+	a ball is played by sophia .
+	a toy is played .
+	a game is played by sophia outside .
+	a ball is played .
+
+soccer is played by sophia in the playground .
+	a game is played outside .
+	a game is played .
+	a game is played by sophia outside .
+	a game is sophia outside .
+	a game is sophia .
+
+soccer is played by sophia in the bedroom .
+	a game is played by sophia .
+	a game is played by a girl .
+
+FOLD:2
+
+charlie plays chess in the bathroom .
+	someone .
+	someone girl .
+	someone plays in the street .
+	someone plays inside .
+	someone girl inside at a game .
+	someone girl in the street .
+	someone plays in the shower .
+	someone plays inside in the street .
+	someone plays in the bathroom .
+	someone girl in the shower .
+	someone plays inside at a game .
+	someone girl inside at chess .
+	someone girl in the bathroom .
+	someone plays inside in the shower .
+	someone plays inside in the bathroom .
+	someone plays inside at chess .
+	someone girl inside in the street .
+	someone girl inside in the shower .
+	someone girl inside in the bathroom .
+
+charlie plays chess in the playground .
+	the boy plays a game .
+	charlie plays a game .
+	someone plays a game .
+	charlie plays .
+	the boy plays .
+	someone plays .
+
+charlie plays chess in the street .
+	a girl plays chess .
+	the boy plays chess .
+	someone plays chess in the bedroom .
+	someone plays chess .
+	someone plays chess in the street .
+	charlie plays chess in the bedroom .
+	charlie plays chess .
+	charlie plays chess in the street .
+	a girl plays chess inside .
+
+heidi plays chess in the bathroom .
+	heidi plays chess in the street .
+	heidi plays .
+	a girl inside .
+	sophia plays chess in the street .
+	heidi plays inside .
+	heidi plays in the street .
+	sophia plays inside .
+	sophia plays .
+	heidi plays chess .
+	a girl plays chess in the street .
+	a girl plays in the street .
+	a girl plays chess .
+
+heidi plays chess in the playground .
+	heidi plays a game outside .
+	heidi plays a game .
+	heidi plays a game badly outside .
+	someone plays a game outside .
+	heidi plays a game well outside .
+	someone plays a game badly outside .
+	someone plays a game well outside .
+	someone plays a game .
+	heidi plays a game badly .
+	heidi plays a game well .
+	heidi plays a game well in the street .
+	someone plays a game well in the street .
+	someone plays a game badly in the street .
+	heidi plays a game well in the playground .
+	someone plays a game well in the playground .
+	someone plays a game badly in the playground .
+
+heidi plays chess in the street .
+	the boy plays chess .
+	someone plays chess in the street .
+	charlie plays chess in the street .
+	sophia plays chess in the street .
+	someone plays chess in the bedroom .
+	someone plays chess .
+	charlie plays chess in the bedroom .
+	sophia plays chess in the bedroom .
+	the boy plays chess inside .
+	charlie plays chess .
+	sophia plays chess .
+	the boy plays chess in the street .
+	the boy plays chess in the bedroom .
+
+sophia plays chess in the bathroom .
+	sophia plays in the street .
+	sophia plays chess in the street .
+	someone plays in the street .
+	sophia plays inside in the street .
+	sophia plays inside .
+	someone plays inside .
+	someone plays inside in the street .
+
+sophia plays chess in the playground .
+	sophia plays a game outside .
+	sophia plays a game .
+
+sophia plays chess in the street .
+	someone plays chess in the street .
+	sophia plays chess in the street .
+	someone plays chess in the bedroom .
+	sophia plays chess in the bedroom .
+	the boy plays chess .
+	the boy plays chess inside .
+	the boy plays chess in the bedroom .
+	the boy plays chess in the street .
+
+charlie plays hide_and_seek in the street .
+	charlie plays hide_and_seek .
+	the boy plays hide_and_seek outside .
+	charlie plays hide_and_seek outside .
+	the boy plays hide_and_seek .
+	the boy plays a game outside .
+	charlie plays a game outside .
+	charlie plays a game in the playground .
+	the boy plays a game in the playground .
+
+heidi plays hide_and_seek in the street .
+	the boy plays hide_and_seek outside .
+	someone plays hide_and_seek outside .
+	charlie plays hide_and_seek outside .
+	the boy plays a game outside .
+	the boy plays at hide_and_seek outside .
+	someone plays a game in the playground .
+	charlie plays a game in the playground .
+	the boy plays a game in the playground .
+	charlie plays a game outside .
+	the boy plays at hide_and_seek .
+	someone plays a game outside .
+	charlie plays hide_and_seek .
+	someone plays hide_and_seek .
+	someone plays a game well in the playground .
+	charlie plays a game badly in the playground .
+	charlie plays a game well in the playground .
+	the boy plays at a game well in the playground .
+	the boy plays at a game badly in the playground .
+	someone plays a game well outside .
+	charlie plays a game well outside .
+	charlie plays a game badly outside .
+	the boy plays at a game well outside .
+	the boy plays at a game well .
+	the boy plays at a game badly outside .
+	the boy plays at a game badly .
+
+sophia plays hide_and_seek in the street .
+	sophia plays hide_and_seek outside .
+	someone plays hide_and_seek outside .
+	sophia plays a game in the playground .
+	sophia plays a game outside .
+	someone plays a game in the playground .
+	someone plays a game outside .
+	someone beats a girl at hide_and_seek outside .
+	someone beats sophia at hide_and_seek outside .
+	someone beats a girl outside at hide_and_seek .
+	someone plays a game badly in the playground .
+	someone beats sophia outside at hide_and_seek .
+	someone beats a girl at a game .
+	someone beats a girl outside .
+	someone beats sophia at a game .
+	someone beats sophia at a game outside .
+	someone plays a game badly outside .
+	someone beats sophia at a game in the playground .
+
+charlie plays soccer in the bathroom .
+	charlie plays in the street .
+	the boy plays in the street .
+	the boy in the street .
+	the boy plays in the bathroom .
+	the boy plays in the shower .
+
+charlie plays soccer in the playground .
+	charlie plays outside .
+	the boy plays outside .
+	the boy outside .
+	charlie plays a game outside .
+
+charlie plays soccer in the bedroom .
+	the boy plays .
+	the boy plays a game inside .
+	charlie plays at a game .
+	charlie plays inside .
+	charlie plays in the bedroom .
+	charlie plays a game inside .
+	the boy plays a game .
+
+heidi plays soccer in the bathroom .
+	heidi plays in the street .
+	heidi plays a game in the street .
+
+heidi plays soccer in the playground .
+	heidi plays outside .
+	heidi plays a game outside .
+
+heidi plays soccer in the bedroom .
+	heidi plays a game inside .
+	heidi plays inside .
+	heidi plays a game in the bedroom .
+	heidi plays a game in the street .
+
+sophia plays soccer in the bathroom .
+	sophia plays in the street .
+	sophia plays a game in the street .
+
+sophia plays soccer in the playground .
+	sophia plays outside .
+	sophia plays a game outside .
+
+sophia plays soccer in the bedroom .
+	sophia plays inside .
+	sophia plays a game inside .
+	sophia plays with ease .
+	sophia plays with a puzzle .
+	sophia plays with a jigsaw .
+	sophia plays with a toy .
+	sophia plays with a game .
+	sophia plays a game in the bedroom .
+	sophia plays with a game inside .
+	sophia plays a game in the street .
+
+chess is played by charlie in the bathroom .
+	a girl .
+	a girl in the street .
+	a girl inside .
+
+chess is played by charlie in the playground .
+	a game is played .
+	a girl .
+	a game is played well .
+	a girl is played .
+
+chess is played by charlie in the street .
+	a game is lost .
+	a game is played .
+	a game is lost by .
+	a game is lost by the boy .
+	a game is lost by charlie .
+
+chess is played by heidi in the bathroom .
+	a girl .
+	a game is played .
+	a girl inside .
+	a game is lost .
+
+chess is played by heidi in the playground .
+	a girl is played .
+	a ball is played .
+	a game is played .
+	a girl is played outside .
+	a game is played outside .
+	a ball is played outside .
+	a game is played by heidi outside .
+	a game is played by a girl .
+	a game is played by heidi .
+	a game is played by a girl outside .
+
+chess is played by heidi in the street .
+	a game is played .
+	chess is played .
+
+chess is played by sophia in the bathroom .
+	a girl .
+	a game is played .
+	a game is played in the street .
+	a game is lost in the street .
+	a game is lost .
+	a game is played in the shower .
+	a game is lost in the shower .
+	a game is lost in the bathroom .
+	a game is lost by someone .
+	a game is lost by a girl .
+	a game is lost by sophia .
+	a game is lost by someone in the street .
+	a game is lost by someone in the shower .
+	a game is lost by someone in the bathroom .
+
+chess is played by sophia in the playground .
+	a game is played well outside .
+	a game is played .
+	a game is played well .
+
+chess is played by sophia in the street .
+	chess is played .
+	a game is played .
+
+hide_and_seek is played by charlie in the street .
+	hide_and_seek is played by charlie outside .
+	hide_and_seek is played by the boy outside .
+	hide_and_seek is played by the boy .
+
+hide_and_seek is played by heidi in the street .
+	hide_and_seek is played by heidi outside .
+
+hide_and_seek is played by sophia in the street .
+	hide_and_seek is played by sophia outside .
+	hide_and_seek is played by a girl outside .
+	hide_and_seek is played by sophia in the playground .
+	hide_and_seek is played by a girl in the playground .
+
+soccer is played by charlie in the bathroom .
+	a girl in the street .
+	a game is played by the boy .
+	a game is played in the street .
+	a game is lost by the boy .
+	a game is played by the boy in the street .
+	a game is played by charlie in the street .
+	a girl is lost in the street .
+	a girl is lost by the boy .
+	a girl is the street .
+	a game is lost in the street .
+	a game is lost by charlie in the street .
+	a game is lost by the boy in the street .
+	a girl is the boy in the street .
+	a game is lost by charlie .
+	a girl is lost by charlie .
+	a girl is lost by charlie in the street .
+	a girl is the by the boy .
+	a girl is the boy .
+	a girl is the by the boy in the street .
+
+soccer is played by charlie in the playground .
+	a game is played by the boy outside .
+	a game is played by charlie outside .
+	a game is played outside .
+
+soccer is played by charlie in the bedroom .
+	a game is played by charlie .
+	a game is played by the boy .
+	charlie is played by the boy .
+	charlie is played by charlie .
+	the boy is played by the boy .
+	the boy .
+	the boy is played by charlie .
+	the is played by charlie .
+	the is played by the boy .
+
+soccer is played by heidi in the bathroom .
+	a game is played by heidi in the street .
+	a game is played .
+	a game is played in the street .
+	a game is played by heidi .
+
+soccer is played by heidi in the playground .
+	a ball is played by heidi outside .
+	a game is played by heidi outside .
+	a ball is played outside .
+	a game is played outside .
+	a game is played with outside by heidi .
+	a ball is played outside by heidi outside .
+	a game is played with by heidi outside .
+	a game is played outside by heidi outside .
+	a game is played with heidi outside .
+	a game is played with outside by heidi outside .
+	a game is played with heidi by heidi .
+	a game is played with heidi by heidi outside .
+
+soccer is played by heidi in the bedroom .
+	a game is played by heidi .
+	a game is played with heidi by heidi .
+	a game is played with by heidi .
+
+soccer is played by sophia in the bathroom .
+	a game is played in the street .
+	a game is played .
+	a game is played by sophia in the street .
+	a game is played by a girl .
+	a game is played by a girl in the street .
+
+soccer is played by sophia in the playground .
+	a game is played outside .
+	a game is played sophia outside .
+	a game is played by sophia outside .
+	a ball is played sophia outside .
+	a ball is played outside .
+	a ball is played by sophia outside .
+
+soccer is played by sophia in the bedroom .
+	a game is played by sophia .
+
+FOLD:3
+
+charlie plays chess in the bathroom .
+	charlie plays .
+	charlie plays at a game .
+	the boy plays .
+	the boy plays a game .
+	someone plays .
+	someone plays at a game .
+	charlie plays a game .
+	the boy plays at a game .
+	the boy plays at .
+
+charlie plays chess in the playground .
+	the boy plays a game .
+	charlie plays a game .
+	charlie plays a game well .
+	charlie plays .
+	the boy plays a game in the playground .
+	charlie plays a game well outside .
+	charlie plays a game badly .
+	the boy plays a game in the street .
+	charlie plays a game well in the playground .
+	charlie plays a game badly outside .
+	charlie plays a game badly in the playground .
+
+charlie plays chess in the street .
+	someone plays chess .
+	the boy plays football .
+	charlie plays chess .
+	someone plays a game in the street .
+	charlie plays a game in the street .
+	the boy plays soccer .
+	the boy plays a game in the street .
+	someone plays football .
+	someone plays a game .
+	charlie plays football .
+	the boy plays a game .
+	charlie plays a game .
+
+heidi plays chess in the bathroom .
+	heidi plays at a game .
+	heidi plays .
+	heidi plays in the street .
+	heidi plays a game in the street .
+	heidi plays a game .
+	heidi plays in the bathroom .
+	heidi plays at football .
+	heidi plays in the shower .
+
+heidi plays chess in the playground .
+	heidi plays a game well outside .
+	heidi plays a game well in the playground .
+	heidi plays .
+	someone plays a game well outside .
+	someone plays a game well in the playground .
+
+heidi plays chess in the street .
+	someone plays chess .
+	the boy plays football .
+	someone plays a game in the street .
+	the boy plays in the street .
+	someone plays football .
+	charlie plays a game in the street .
+	the boy plays soccer .
+	someone plays soccer .
+	charlie plays football .
+	charlie plays soccer .
+	charlie plays chess .
+	the boy plays at football .
+	the boy plays at soccer .
+	the boy plays soccer in the street .
+
+sophia plays chess in the bathroom .
+	sophia plays at football .
+	sophia plays at soccer .
+	sophia plays in the street .
+	sophia plays at chess .
+
+sophia plays chess in the playground .
+	sophia plays a game well outside .
+	sophia plays .
+	sophia plays a game in the playground .
+	sophia plays a game well .
+	sophia plays a game outside .
+	sophia plays a game in the street .
+	sophia plays a game well in the playground .
+
+sophia plays chess in the street .
+	sophia plays chess .
+	sophia plays football .
+	sophia plays a game in the street .
+	sophia plays soccer .
+	the boy plays football .
+	charlie plays chess .
+	the boy plays soccer .
+	the boy plays in the street .
+	the boy plays chess .
+	charlie plays football .
+	charlie plays a game in the street .
+	charlie plays soccer .
+	the boy plays football in the street .
+	the boy plays chess in the street .
+	charlie plays chess in the street .
+	the boy plays soccer in the street .
+
+charlie plays hide_and_seek in the street .
+	the boy plays hide_and_seek outside .
+	charlie plays hide_and_seek .
+	the boy plays hide_and_seek .
+	someone plays hide_and_seek .
+	the boy plays hide_and_seek in the playground .
+	charlie loses .
+	charlie loses to someone .
+	charlie loses at hide_and_seek .
+	someone loses .
+	someone loses to someone .
+	someone loses at hide_and_seek .
+	someone loses to someone at hide_and_seek .
+	charlie loses to someone at hide_and_seek .
+
+heidi plays hide_and_seek in the street .
+	heidi plays hide_and_seek outside .
+	someone plays hide_and_seek outside .
+	the boy plays hide_and_seek outside .
+	heidi plays hide_and_seek .
+	someone plays hide_and_seek .
+	someone loses to someone at hide_and_seek .
+	the boy plays in the playground .
+	someone loses to someone in the playground .
+	someone loses to someone at hide_and_seek outside .
+	someone loses to someone at a game in the playground .
+	someone loses to someone at a game .
+
+sophia plays hide_and_seek in the street .
+	sophia plays hide_and_seek outside .
+	sophia plays hide_and_seek in the playground .
+	sophia loses at hide_and_seek .
+	sophia loses to someone at hide_and_seek .
+	sophia loses to someone outside at hide_and_seek .
+	sophia loses to someone in the playground .
+	sophia loses to someone at hide_and_seek outside .
+	sophia loses to someone at a game in the playground .
+
+charlie plays soccer in the bathroom .
+	the boy plays with a game .
+	charlie plays with a game .
+	charlie plays with a game outside .
+	the boy plays a game outside .
+	the boy plays a game .
+	the boy plays a game in the street .
+	the boy plays a game in the bathroom .
+	the boy plays a game in the shower .
+
+charlie plays soccer in the playground .
+	charlie plays outside .
+	the boy plays outside .
+	the boy outside .
+
+charlie plays soccer in the bedroom .
+	the boy plays in the bedroom .
+	charlie plays chess in the bedroom .
+	charlie plays chess .
+	charlie plays chess inside .
+
+heidi plays soccer in the bathroom .
+	heidi plays a game .
+	heidi plays a game in the street .
+	heidi plays a game outside .
+
+heidi plays soccer in the playground .
+	heidi plays outside .
+	heidi plays a game outside .
+
+heidi plays soccer in the bedroom .
+	heidi plays in the street .
+	heidi plays a game in the street .
+	heidi plays chess in the street .
+	heidi plays chess in the bedroom .
+
+sophia plays soccer in the bathroom .
+	sophia plays with a game .
+	sophia plays in the street .
+	someone plays with a game .
+	someone plays in the street .
+	sophia plays a game in the street .
+	someone plays a game in the street .
+	someone plays with a game in the street .
+
+sophia plays soccer in the playground .
+	sophia plays outside .
+	someone plays outside .
+	sophia plays a game outside .
+	someone plays a game outside .
+
+sophia plays soccer in the bedroom .
+	someone plays chess in the street .
+	someone plays in the street .
+	a girl plays in the bedroom .
+	a girl plays in the street .
+	someone plays chess in the bedroom .
+	a girl plays football in the bedroom .
+	a girl plays chess in the bedroom .
+	sophia plays in the bedroom .
+	sophia plays chess .
+	a girl plays soccer in the bedroom .
+	a girl plays football .
+	sophia plays chess in the bedroom .
+	someone plays in the bedroom .
+	a girl plays soccer .
+	sophia plays a game in the bedroom .
+	a girl plays chess .
+	sophia plays a game in the street .
+	sophia plays in the street .
+	a girl plays football in the street .
+
+chess is played by charlie in the bathroom .
+	a game is played .
+	a girl is .
+	a girl is played .
+	a girl is lost .
+	a girl .
+	a game is played by the boy .
+	a girl is lost by the boy .
+	a game is played by charlie .
+	a girl is lost by charlie .
+
+chess is played by charlie in the playground .
+	a game is played by the boy .
+	a game is played by charlie .
+
+chess is played by charlie in the street .
+	a game is played by the boy .
+	a game is played by charlie .
+	a game is lost by the boy .
+	a game is lost by charlie .
+
+chess is played by heidi in the bathroom .
+	a game is played by heidi .
+	a game is played .
+
+chess is played by heidi in the playground .
+	a game is played by heidi .
+	a game is played by heidi outside .
+
+chess is played by heidi in the street .
+	a game is played by the boy .
+	a game is played by charlie in the street .
+	a game is played by charlie .
+
+chess is played by sophia in the bathroom .
+	a game is played by the boy .
+	a game is played by charlie .
+	sophia is played .
+	sophia is played by .
+	sophia is played by sophia .
+	sophia is played by the boy .
+
+chess is played by sophia in the playground .
+	a game is played by sophia outside .
+	a game is played by sophia .
+	a game is played by sophia in the playground .
+	a game is played by sophia in the street .
+	sophia is won by sophia .
+	sophia is played by sophia .
+	sophia is played by sophia outside .
+	sophia is won by sophia outside .
+	sophia is lost by sophia .
+	sophia is lost by sophia outside .
+
+chess is played by sophia in the street .
+	a game is played by the boy .
+	a game is played by charlie .
+	a game is played by charlie in the street .
+	chess is played by sophia .
+	chess is played by sophia in the street .
+	chess is played by the boy .
+
+hide_and_seek is played by charlie in the street .
+	hide_and_seek is played by the boy .
+	hide_and_seek is lost by the boy .
+	hide_and_seek is played by charlie in the playground .
+	hide_and_seek is played by the boy in the playground .
+	hide_and_seek is lost by charlie in the playground .
+	hide_and_seek is played by the boy in the bathroom .
+	hide_and_seek is played by the boy in the shower .
+	hide_and_seek is played by charlie outside .
+	hide_and_seek is lost by the boy in the playground .
+	hide_and_seek is lost by the boy in the bathroom .
+	hide_and_seek is lost by the boy in the shower .
+	hide_and_seek is lost by charlie .
+	hide_and_seek is lost by charlie outside .
+	hide_and_seek is lost by charlie in the bathroom .
+
+hide_and_seek is played by heidi in the street .
+	hide_and_seek is played by heidi in the playground .
+
+hide_and_seek is played by sophia in the street .
+	hide_and_seek is played by sophia in the playground .
+	hide_and_seek is lost by sophia in the playground .
+
+soccer is played by charlie in the bathroom .
+	a game is played by the boy outside .
+	a game is played by charlie outside .
+	a game is played by the boy .
+
+soccer is played by charlie in the playground .
+	a game is played outside .
+	a game is played by the boy outside .
+	a game is played by charlie outside .
+	a game is played by someone outside .
+
+soccer is played by charlie in the bedroom .
+	a game is played by the boy in the bedroom .
+	a game is played by charlie in the bedroom .
+	football is played by charlie in the bedroom .
+	a game is played by the boy inside .
+	soccer is played by charlie in the bedroom .
+	football is played by the boy in the bedroom .
+	soccer is played by the boy in the bedroom .
+	a game is played by charlie inside .
+	football is played by the boy inside .
+	football is played by charlie .
+	football is played by charlie inside .
+	soccer is played by the boy inside .
+	soccer is played by charlie .
+	soccer is played by charlie inside .
+
+soccer is played by heidi in the bathroom .
+	a game is played by a girl .
+	a game is played by heidi .
+
+soccer is played by heidi in the playground .
+	a game is played outside .
+	a game is played by heidi outside .
+
+soccer is played by heidi in the bedroom .
+	a game is played in the street .
+	a game is played by heidi .
+	a game is played by heidi in the bedroom .
+	a game is played in the bedroom .
+
+soccer is played by sophia in the bathroom .
+	a game is played by a girl .
+	a ball is played by a girl .
+	a game is played by sophia .
+	a toy is played by a girl .
+	a ball is played by sophia .
+	a game is played by sophia outside .
+	a toy is played by sophia .
+
+soccer is played by sophia in the playground .
+	a game is played outside .
+	a toy is played outside .
+	a game is played by sophia outside .
+	a toy is played by sophia outside .
+	a game is played by a girl outside .
+	a toy is played by a girl outside .
+
+soccer is played by sophia in the bedroom .
+	a game is played in the bedroom .
+	a game is played by a girl in the bedroom .
+	a game is played by a girl .
+	a game is played in the street .
+	a game is played with by a girl in the bedroom .
+	a game is played with by a girl .
+	a game is played with a by in the bedroom .
+	a game is played with in the bedroom .
+	a game is played with in the street .
+	a game is played with a a toy in the bedroom .
+	a game is played with a a girl in the bedroom .
+	a game is played with a a by in the bedroom .
+	a game is played with a a by someone in the bedroom .
+	a game is played with a a by the boy .
+	a game is played with a a by someone .
+	a game is played with a a by someone inside .
+	a game is played with a a by the boy in the bedroom .
+
+FOLD:4
+
+charlie plays chess in the bathroom .
+	charlie plays inside .
+	someone plays inside .
+	the boy plays inside .
+	the boy inside .
+	the boy plays a game .
+	someone plays a game inside .
+	the boy plays a game inside .
+	someone plays a game .
+
+charlie plays chess in the playground .
+	charlie plays a game outside .
+	the boy plays a game .
+	the boy plays a game outside .
+	charlie plays a game .
+	someone plays a game outside .
+	someone plays .
+	someone plays a game .
+
+charlie plays chess in the street .
+	a girl plays a game .
+	someone plays a game .
+	someone plays chess .
+	a girl plays chess .
+	someone plays a game inside .
+	someone plays a game in the street .
+
+heidi plays chess in the bathroom .
+	a girl plays a game inside .
+	heidi plays a game inside .
+	heidi plays inside .
+
+heidi plays chess in the playground .
+	heidi plays a game outside .
+
+heidi plays chess in the street .
+	a girl plays chess .
+	a girl plays a game in the street .
+	someone plays a game inside .
+	someone plays chess .
+	someone plays soccer .
+	charlie plays chess .
+	someone plays football .
+	charlie plays a game .
+	a girl plays a game .
+	someone plays a game .
+	charlie plays soccer .
+	charlie plays football .
+	someone plays a game in the street .
+	charlie plays a game inside .
+
+sophia plays chess in the bathroom .
+	a girl plays a game .
+	sophia plays a game inside .
+	sophia plays a game .
+	sophia plays inside .
+	a girl plays a game inside .
+
+sophia plays chess in the playground .
+	sophia plays a game outside .
+
+sophia plays chess in the street .
+	sophia plays a game inside .
+	a girl plays a game .
+	heidi plays chess .
+	sophia plays chess .
+	sophia plays a game .
+	a girl plays a game inside .
+	heidi plays a game inside .
+	heidi plays a game .
+	heidi plays a game in the street .
+
+charlie plays hide_and_seek in the street .
+	charlie plays hide_and_seek .
+	the boy plays hide_and_seek .
+	someone plays hide_and_seek .
+	the boy plays hide_and_seek outside .
+	a girl plays hide_and_seek in the playground .
+	a girl plays hide_and_seek outside .
+	someone plays hide_and_seek outside .
+	the boy plays hide_and_seek in the playground .
+	the boy plays hide_and_seek in the .
+	someone plays hide_and_seek in the playground .
+	a girl wins at hide_and_seek .
+	a girl wins at a game .
+	someone plays hide_and_seek in the .
+
+heidi plays hide_and_seek in the street .
+	someone plays hide_and_seek outside .
+	a girl plays hide_and_seek outside .
+	heidi plays hide_and_seek outside .
+	the boy plays hide_and_seek outside .
+	a girl plays a game in the playground .
+	someone plays hide_and_seek well .
+	a girl plays hide_and_seek in the playground .
+	heidi plays hide_and_seek in the playground .
+	someone plays a game in the playground .
+	heidi plays a game in the playground .
+	the boy plays hide_and_seek in the playground .
+	the boy plays hide_and_seek .
+	the boy plays a game in the playground .
+	a girl plays a game at hide_and_seek .
+	a girl plays a game in the shower .
+	someone plays a game badly .
+	someone plays a game well .
+	someone plays a game well at hide_and_seek .
+	someone plays a game badly at hide_and_seek .
+	someone plays a game badly at a game .
+
+sophia plays hide_and_seek in the street .
+	sophia plays hide_and_seek .
+	a girl plays hide_and_seek outside .
+	sophia plays hide_and_seek outside .
+	someone plays hide_and_seek .
+	a girl plays hide_and_seek .
+	someone plays hide_and_seek outside .
+	a girl plays a game in the playground .
+	a girl plays hide_and_seek in the playground .
+	a girl plays a game .
+
+charlie plays soccer in the bathroom .
+	charlie plays inside .
+	the boy plays a game .
+	charlie plays at a game .
+	the boy plays at a game .
+	the boy plays inside .
+	the boy plays a game inside .
+	charlie plays a game inside .
+	charlie plays a game .
+	charlie plays a game in the street .
+	charlie plays a game in the shower .
+	charlie plays a game in the bathroom .
+
+charlie plays soccer in the playground .
+	charlie plays outside .
+	the boy plays outside .
+	the boy plays a game outside .
+	the boy plays outside outside .
+
+charlie plays soccer in the bedroom .
+	the boy plays in the bedroom .
+	charlie plays in the bedroom .
+	the boy plays a game in the bedroom .
+	charlie plays at a game .
+	charlie plays a game in the bedroom .
+
+heidi plays soccer in the bathroom .
+	heidi plays a game in the street .
+	a girl plays a game in the street .
+
+heidi plays soccer in the playground .
+	heidi plays outside .
+	heidi plays a game outside .
+
+heidi plays soccer in the bedroom .
+	heidi plays a game inside .
+	heidi plays a game in the bedroom .
+	heidi plays at a game .
+
+sophia plays soccer in the bathroom .
+	sophia plays a game in the street .
+	sophia plays a game .
+	sophia plays a game inside .
+	a girl plays a game .
+	a girl plays a game in the street .
+	sophia plays a game in the shower .
+	a girl plays a game inside .
+	sophia plays a game in the bathroom .
+	a girl plays a game in the shower .
+
+sophia plays soccer in the playground .
+	sophia plays outside .
+	sophia plays a game outside .
+
+sophia plays soccer in the bedroom .
+	sophia plays a game inside .
+	sophia plays a game in the bedroom .
+	sophia plays a game in the street .
+
+chess is played by charlie in the bathroom .
+	a girl .
+	a game .
+
+chess is played by charlie in the playground .
+	a game is played .
+	a game .
+	a game is played by charlie .
+	a game is played by the boy .
+
+chess is played by charlie in the street .
+	a game is played .
+	a game .
+
+chess is played by heidi in the bathroom .
+	a girl .
+	a game .
+	a game is played .
+	a game is played by a girl .
+	a game is played by heidi .
+
+chess is played by heidi in the playground .
+	a game is played .
+	a girl .
+
+chess is played by heidi in the street .
+	a game is played .
+	a game .
+
+chess is played by sophia in the bathroom .
+	a game .
+	a girl .
+	a game is played .
+	a game is played by sophia .
+	a game is played by .
+	a game is played by a girl .
+
+chess is played by sophia in the playground .
+	a game is played .
+	a game is played by sophia .
+	a girl .
+
+chess is played by sophia in the street .
+	a game is played .
+	a game .
+	a game is played by sophia .
+
+hide_and_seek is played by charlie in the street .
+	hide_and_seek is played by the boy .
+	hide_and_seek is played by someone in the playground .
+	hide_and_seek is played by charlie in the playground .
+	hide_and_seek is played by someone outside .
+	hide_and_seek is played by charlie outside .
+	a game is played by the boy .
+	hide_and_seek is played by charlie .
+	a game is played by charlie in the playground .
+	a game is played by charlie outside .
+	a game is played by the boy in the playground .
+
+hide_and_seek is played by heidi in the street .
+	hide_and_seek is played by a girl .
+	hide_and_seek is lost by a girl .
+	hide_and_seek is played by heidi outside .
+	hide_and_seek is played by heidi in the playground .
+	a game is played by heidi outside .
+	a game is played by heidi in the playground .
+	hide_and_seek is lost by heidi outside .
+	a game is played by a girl .
+	hide_and_seek is lost by heidi .
+	a game is lost by a girl .
+	a game is lost by heidi outside .
+	hide_and_seek is lost by heidi in the playground .
+	a game is played by a girl outside .
+	a game is lost by heidi in the playground .
+	a game is lost by a girl outside .
+
+hide_and_seek is played by sophia in the street .
+	hide_and_seek is played by a girl .
+	hide_and_seek is played by sophia .
+
+soccer is played by charlie in the bathroom .
+	a game .
+	a game is played by the boy .
+	a game is played by charlie .
+
+soccer is played by charlie in the playground .
+	a game is played by charlie outside .
+	a game is played by the boy outside .
+	the boy outside .
+	the boy .
+	the is played outside .
+	the is played by charlie outside .
+	the is played by the boy outside .
+
+soccer is played by charlie in the bedroom .
+	a game is played by charlie .
+	a game is played by the boy .
+	the is played by charlie .
+	football is played by charlie .
+	charlie is played by charlie .
+	football is played by the boy .
+	charlie is played by the boy .
+	the is played by the boy .
+	the is played with by charlie .
+	charlie is played .
+	the is played with by the boy .
+	the is played with by charlie in the bedroom .
+
+soccer is played by heidi in the bathroom .
+	a game is played by heidi .
+	a game is played by a girl .
+	a game is played by heidi in the street .
+
+soccer is played by heidi in the playground .
+	a game is played with outside .
+	a game is played by heidi outside .
+	a game is played outside .
+	a game is played with a ball outside .
+	a game is played with outside by heidi .
+	a game is played with a ball .
+	a game is played with outside by heidi outside .
+
+soccer is played by heidi in the bedroom .
+	a game is played by heidi .
+
+soccer is played by sophia in the bathroom .
+	a game is played by sophia .
+
+soccer is played by sophia in the playground .
+	a game is played by sophia outside .
+	a game is played outside .
+	a game is played sophia outside .
+
+soccer is played by sophia in the bedroom .
+	a game is played sophia .
+	a game is played well by sophia .
+	a game is played well .
+

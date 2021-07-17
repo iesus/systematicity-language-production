@@ -1,0 +1,630 @@
+
+CONDITION:1
+hide_and_seek is won with ease by heidi in the bathroom .
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'inside', '.'] ['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'in', 'the', 'bathroom', '.']
+0.727272727273
+
+hide_and_seek is lost by charlie in the bathroom .
+['hide_and_seek', 'is', 'lost', 'by', 'the', 'boy', 'in', 'the', 'bathroom', '.'] ['hide_and_seek', 'is', 'lost', 'by', 'the', 'boy', 'in', 'the', 'bathroom', '.']
+1.0
+
+hide_and_seek is won with difficulty by heidi .
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', '.'] ['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'heidi', '.']
+0.875
+
+a ball is played with by heidi in the street .
+['a', 'ball', 'is', 'played', 'with', 'by', 'heidi', 'in', 'the', 'street', '.'] ['a', 'ball', 'is', 'played', 'with', 'by', 'heidi', 'in', 'the', 'street', '.']
+1.0
+
+hide_and_seek is played badly by a girl in the bathroom .
+['a', 'game', 'is', 'played', 'badly', 'by', 'a', 'girl', 'in', 'the', 'bathroom', '.'] ['a', 'game', 'is', 'played', 'badly', 'by', 'a', 'girl', 'in', 'the', 'bathroom', '.']
+1.0
+
+hide_and_seek is won with difficulty in the bathroom .
+['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'someone', 'in', 'the', 'bathroom', '.'] ['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'someone', 'in', 'the', 'bathroom', '.']
+1.0
+
+a game is won by a girl in the bedroom .
+['a', 'game', 'is', 'won', 'by', 'a', 'girl', 'in', 'the', 'bedroom', '.'] ['a', 'game', 'is', 'won', 'by', 'a', 'girl', 'in', 'the', 'bedroom', '.']
+1.0
+
+a toy is played with by a girl outside .
+['a', 'toy', 'is', 'played', 'with', 'by', 'a', 'girl', 'outside', '.'] ['a', 'toy', 'is', 'played', 'with', 'by', 'a', 'girl', 'outside', '.']
+1.0
+
+a game is played outside .
+['a', 'game', 'is', 'played', 'outside', '.'] ['a', 'game', 'is', 'played', 'outside', '.']
+1.0
+
+hide_and_seek is played badly by charlie .
+['hide_and_seek', 'is', 'played', 'badly', 'by', 'the', 'boy', '.'] ['hide_and_seek', 'is', 'played', 'badly', 'by', 'the', 'boy', '.']
+1.0
+
+a game is won with difficulty by sophia inside .
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'sophia', 'inside', '.'] ['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'sophia', 'inside', '.']
+1.0
+
+soccer is played well by heidi .
+['a', 'game', 'is', 'played', 'well', 'by', 'heidi', 'in', 'the', 'street', '.'] ['a', 'game', 'is', 'played', 'well', 'by', 'heidi', 'in', 'the', 'street', '.']
+1.0
+
+a game is lost by heidi outside .
+['a', 'game', 'is', 'lost', 'by', 'heidi', 'outside', '.'] ['a', 'game', 'is', 'lost', 'by', 'heidi', 'outside', '.']
+1.0
+
+a game is won by a girl .
+['a', 'game', 'is', 'won', 'by', 'a', 'girl', '.'] ['a', 'game', 'is', 'won', 'by', 'a', 'girl', '.']
+1.0
+
+PERFECT INSTANCES
+['hide_and_seek', 'is', 'lost', 'by', 'the', 'boy', 'in', 'the', 'bathroom', '.'] ['hide_and_seek', 'is', 'lost', 'by', 'the', 'boy', 'in', 'the', 'bathroom', '.']
+['a', 'ball', 'is', 'played', 'with', 'by', 'heidi', 'in', 'the', 'street', '.'] ['a', 'ball', 'is', 'played', 'with', 'by', 'heidi', 'in', 'the', 'street', '.']
+['a', 'game', 'is', 'played', 'badly', 'by', 'a', 'girl', 'in', 'the', 'bathroom', '.'] ['a', 'game', 'is', 'played', 'badly', 'by', 'a', 'girl', 'in', 'the', 'bathroom', '.']
+['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'someone', 'in', 'the', 'bathroom', '.'] ['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'someone', 'in', 'the', 'bathroom', '.']
+['a', 'game', 'is', 'won', 'by', 'a', 'girl', 'in', 'the', 'bedroom', '.'] ['a', 'game', 'is', 'won', 'by', 'a', 'girl', 'in', 'the', 'bedroom', '.']
+['a', 'toy', 'is', 'played', 'with', 'by', 'a', 'girl', 'outside', '.'] ['a', 'toy', 'is', 'played', 'with', 'by', 'a', 'girl', 'outside', '.']
+['a', 'game', 'is', 'played', 'outside', '.'] ['a', 'game', 'is', 'played', 'outside', '.']
+['hide_and_seek', 'is', 'played', 'badly', 'by', 'the', 'boy', '.'] ['hide_and_seek', 'is', 'played', 'badly', 'by', 'the', 'boy', '.']
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'sophia', 'inside', '.'] ['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'sophia', 'inside', '.']
+['a', 'game', 'is', 'played', 'well', 'by', 'heidi', 'in', 'the', 'street', '.'] ['a', 'game', 'is', 'played', 'well', 'by', 'heidi', 'in', 'the', 'street', '.']
+['a', 'game', 'is', 'lost', 'by', 'heidi', 'outside', '.'] ['a', 'game', 'is', 'lost', 'by', 'heidi', 'outside', '.']
+['a', 'game', 'is', 'won', 'by', 'a', 'girl', '.'] ['a', 'game', 'is', 'won', 'by', 'a', 'girl', '.']
+12
+0.857142857143
+
+ALMOST PERFECT
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', '.'] ['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'heidi', '.']
+1
+0.0714285714286
+
+MILDLY BAD
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'inside', '.'] ['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'in', 'the', 'bathroom', '.']
+1
+0.0714285714286
+
+WORST INSTANCES
+0
+0.0
+
+
+0.971590909091
+
+CONDITION:2
+someone plays well in the bathroom .
+['someone', 'plays', 'a', 'game', 'well', 'in', 'the', 'bathroom', '.'] ['someone', 'plays', 'a', 'game', 'well', 'in', 'the', 'bathroom', '.']
+1.0
+
+charlie wins with difficulty .
+['charlie', 'wins', 'with', 'difficulty', 'at', 'a', 'game', '.'] ['charlie', 'wins', 'with', 'difficulty', 'at', 'a', 'game', '.']
+1.0
+
+sophia plays hide_and_seek outside .
+['sophia', 'plays', 'hide_and_seek', 'in', 'the', 'playground', '.'] ['sophia', 'plays', 'hide_and_seek', 'in', 'the', 'playground', '.']
+1.0
+
+a girl plays with a doll outside .
+['a', 'girl', 'plays', 'with', 'a', 'doll', 'in', 'the', 'playground', '.'] ['a', 'girl', 'plays', 'with', 'a', 'doll', 'in', 'the', 'playground', '.']
+1.0
+
+sophia loses in the bathroom .
+['sophia', 'loses', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.'] ['sophia', 'loses', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.']
+1.0
+
+sophia plays with a toy .
+['sophia', 'plays', 'with', 'a', 'toy', '.'] ['sophia', 'plays', 'with', 'a', 'toy', '.']
+1.0
+
+sophia plays with a toy inside .
+['sophia', 'plays', 'with', 'a', 'toy', '.'] ['sophia', 'plays', 'with', 'a', 'toy', 'inside', '.']
+0.857142857143
+
+someone plays chess badly .
+['someone', 'plays', 'chess', 'badly', '.'] ['someone', 'plays', 'chess', 'badly', '.']
+1.0
+
+charlie wins at hide_and_seek in the bedroom .
+['someone', 'loses', 'to', 'the', 'boy', 'in', 'the', 'bathroom', '.'] ['charlie', 'wins', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+0.333333333333
+
+sophia wins at soccer .
+['sophia', 'wins', 'in', 'the', 'street', 'at', 'a', 'game', '.'] ['sophia', 'wins', 'in', 'the', 'street', 'at', 'a', 'game', '.']
+1.0
+
+someone plays with a doll outside .
+['someone', 'plays', 'with', 'a', 'doll', 'outside', '.'] ['someone', 'plays', 'with', 'a', 'doll', 'outside', '.']
+1.0
+
+sophia loses in the bedroom .
+['sophia', 'loses', 'in', 'the', 'bedroom', '.'] ['sophia', 'loses', 'in', 'the', 'bedroom', '.']
+1.0
+
+sophia wins with ease at hide_and_seek inside .
+['sophia', 'beats', 'someone', 'with', 'ease', 'at', 'hide_and_seek', 'inside', '.'] ['sophia', 'beats', 'someone', 'with', 'ease', 'at', 'hide_and_seek', 'inside', '.']
+1.0
+
+heidi wins with ease in the playground .
+['heidi', 'beats', 'someone', 'with', 'ease', 'at', 'hide_and_seek', 'outside', '.'] ['heidi', 'beats', 'someone', 'with', 'ease', 'at', 'hide_and_seek', 'outside', '.']
+1.0
+
+PERFECT INSTANCES
+['someone', 'plays', 'a', 'game', 'well', 'in', 'the', 'bathroom', '.'] ['someone', 'plays', 'a', 'game', 'well', 'in', 'the', 'bathroom', '.']
+['charlie', 'wins', 'with', 'difficulty', 'at', 'a', 'game', '.'] ['charlie', 'wins', 'with', 'difficulty', 'at', 'a', 'game', '.']
+['sophia', 'plays', 'hide_and_seek', 'in', 'the', 'playground', '.'] ['sophia', 'plays', 'hide_and_seek', 'in', 'the', 'playground', '.']
+['a', 'girl', 'plays', 'with', 'a', 'doll', 'in', 'the', 'playground', '.'] ['a', 'girl', 'plays', 'with', 'a', 'doll', 'in', 'the', 'playground', '.']
+['sophia', 'loses', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.'] ['sophia', 'loses', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.']
+['sophia', 'plays', 'with', 'a', 'toy', '.'] ['sophia', 'plays', 'with', 'a', 'toy', '.']
+['someone', 'plays', 'chess', 'badly', '.'] ['someone', 'plays', 'chess', 'badly', '.']
+['sophia', 'wins', 'in', 'the', 'street', 'at', 'a', 'game', '.'] ['sophia', 'wins', 'in', 'the', 'street', 'at', 'a', 'game', '.']
+['someone', 'plays', 'with', 'a', 'doll', 'outside', '.'] ['someone', 'plays', 'with', 'a', 'doll', 'outside', '.']
+['sophia', 'loses', 'in', 'the', 'bedroom', '.'] ['sophia', 'loses', 'in', 'the', 'bedroom', '.']
+['sophia', 'beats', 'someone', 'with', 'ease', 'at', 'hide_and_seek', 'inside', '.'] ['sophia', 'beats', 'someone', 'with', 'ease', 'at', 'hide_and_seek', 'inside', '.']
+['heidi', 'beats', 'someone', 'with', 'ease', 'at', 'hide_and_seek', 'outside', '.'] ['heidi', 'beats', 'someone', 'with', 'ease', 'at', 'hide_and_seek', 'outside', '.']
+12
+0.857142857143
+
+ALMOST PERFECT
+['sophia', 'plays', 'with', 'a', 'toy', '.'] ['sophia', 'plays', 'with', 'a', 'toy', 'inside', '.']
+1
+0.0714285714286
+
+MILDLY BAD
+0
+0.0
+
+WORST INSTANCES
+['someone', 'loses', 'to', 'the', 'boy', 'in', 'the', 'bathroom', '.'] ['charlie', 'wins', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+1
+0.0714285714286
+
+
+0.942176870748
+
+CONDITION:3
+a girl plays well .
+['a', 'girl', 'plays', 'a', 'game', 'well', '.'] ['a', 'girl', 'plays', 'a', 'game', 'well', '.']
+1.0
+
+charlie plays soccer well .
+['charlie', 'plays', 'a', 'game', 'well', 'in', 'the', 'street', '.'] ['charlie', 'plays', 'a', 'game', 'well', 'in', 'the', 'street', '.']
+1.0
+
+someone wins with ease at hide_and_seek .
+['someone', 'wins', 'with', 'ease', 'at', 'hide_and_seek', '.'] ['someone', 'wins', 'with', 'ease', 'at', 'hide_and_seek', '.']
+1.0
+
+sophia plays hide_and_seek well inside .
+['sophia', 'plays', 'hide_and_seek', 'badly', 'inside', '.'] ['sophia', 'plays', 'hide_and_seek', 'well', 'inside', '.']
+0.833333333333
+
+sophia plays with a doll outside .
+['heidi', 'plays', 'with', 'a', 'doll', 'in', 'the', 'playground', '.'] ['sophia', 'plays', 'with', 'a', 'doll', 'in', 'the', 'playground', '.']
+0.888888888889
+
+charlie loses at chess .
+['the', 'boy', 'loses', 'in', 'the', 'bedroom', 'at', 'chess', '.'] ['the', 'boy', 'loses', 'in', 'the', 'bedroom', 'at', 'chess', '.']
+1.0
+
+someone plays hide_and_seek well in the bedroom .
+['someone', 'plays', 'hide_and_seek', 'badly', 'in', 'the', 'bedroom', '.'] ['someone', 'plays', 'hide_and_seek', 'well', 'in', 'the', 'bedroom', '.']
+0.875
+
+heidi plays with a toy inside .
+['heidi', 'plays', 'with', 'a', 'toy', 'inside', '.'] ['heidi', 'plays', 'with', 'a', 'toy', 'inside', '.']
+1.0
+
+sophia loses inside .
+['someone', 'beats', 'sophia', 'inside', '.'] ['someone', 'beats', 'sophia', 'inside', '.']
+1.0
+
+someone beats a girl .
+['someone', 'beats', 'a', 'girl', 'loses', 'at', 'a', 'game', '.'] ['someone', 'beats', 'a', 'girl', 'at', 'a', 'game', '.']
+0.888888888889
+
+charlie plays hide_and_seek well inside .
+['the', 'boy', 'plays', 'hide_and_seek', 'well', 'inside', '.'] ['the', 'boy', 'plays', 'hide_and_seek', 'well', 'inside', '.']
+1.0
+
+someone wins outside .
+['someone', 'wins', 'at', 'a', 'game', '.'] ['someone', 'wins', 'at', 'a', 'game', 'outside', '.']
+0.857142857143
+
+sophia plays hide_and_seek well in the bedroom .
+['sophia', 'plays', 'hide_and_seek', 'badly', 'in', 'the', 'bedroom', '.'] ['sophia', 'plays', 'hide_and_seek', 'well', 'in', 'the', 'bedroom', '.']
+0.875
+
+charlie plays badly in the bathroom .
+['the', 'boy', 'plays', 'a', 'game', 'well', 'in', 'the', 'bathroom', '.'] ['the', 'boy', 'plays', 'a', 'game', 'badly', 'in', 'the', 'bathroom', '.']
+0.9
+
+PERFECT INSTANCES
+['a', 'girl', 'plays', 'a', 'game', 'well', '.'] ['a', 'girl', 'plays', 'a', 'game', 'well', '.']
+['charlie', 'plays', 'a', 'game', 'well', 'in', 'the', 'street', '.'] ['charlie', 'plays', 'a', 'game', 'well', 'in', 'the', 'street', '.']
+['someone', 'wins', 'with', 'ease', 'at', 'hide_and_seek', '.'] ['someone', 'wins', 'with', 'ease', 'at', 'hide_and_seek', '.']
+['the', 'boy', 'loses', 'in', 'the', 'bedroom', 'at', 'chess', '.'] ['the', 'boy', 'loses', 'in', 'the', 'bedroom', 'at', 'chess', '.']
+['heidi', 'plays', 'with', 'a', 'toy', 'inside', '.'] ['heidi', 'plays', 'with', 'a', 'toy', 'inside', '.']
+['someone', 'beats', 'sophia', 'inside', '.'] ['someone', 'beats', 'sophia', 'inside', '.']
+['the', 'boy', 'plays', 'hide_and_seek', 'well', 'inside', '.'] ['the', 'boy', 'plays', 'hide_and_seek', 'well', 'inside', '.']
+7
+0.5
+
+ALMOST PERFECT
+['sophia', 'plays', 'hide_and_seek', 'badly', 'inside', '.'] ['sophia', 'plays', 'hide_and_seek', 'well', 'inside', '.']
+['heidi', 'plays', 'with', 'a', 'doll', 'in', 'the', 'playground', '.'] ['sophia', 'plays', 'with', 'a', 'doll', 'in', 'the', 'playground', '.']
+['someone', 'plays', 'hide_and_seek', 'badly', 'in', 'the', 'bedroom', '.'] ['someone', 'plays', 'hide_and_seek', 'well', 'in', 'the', 'bedroom', '.']
+['someone', 'beats', 'a', 'girl', 'loses', 'at', 'a', 'game', '.'] ['someone', 'beats', 'a', 'girl', 'at', 'a', 'game', '.']
+['someone', 'wins', 'at', 'a', 'game', '.'] ['someone', 'wins', 'at', 'a', 'game', 'outside', '.']
+['sophia', 'plays', 'hide_and_seek', 'badly', 'in', 'the', 'bedroom', '.'] ['sophia', 'plays', 'hide_and_seek', 'well', 'in', 'the', 'bedroom', '.']
+['the', 'boy', 'plays', 'a', 'game', 'well', 'in', 'the', 'bathroom', '.'] ['the', 'boy', 'plays', 'a', 'game', 'badly', 'in', 'the', 'bathroom', '.']
+7
+0.5
+
+MILDLY BAD
+0
+0.0
+
+WORST INSTANCES
+0
+0.0
+
+
+0.93701814059
+
+CONDITION:4
+a game is played well by a girl .
+['a', 'game', 'is', 'played', 'well', 'by', 'a', 'girl', '.'] ['a', 'game', 'is', 'played', 'well', 'by', 'a', 'girl', '.']
+1.0
+
+soccer is played well by charlie .
+['football', 'is', 'played', 'well', 'by', 'the', 'boy', '.'] ['football', 'is', 'played', 'well', 'by', 'the', 'boy', '.']
+1.0
+
+hide_and_seek is won with ease .
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'someone', '.'] ['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'someone', '.']
+1.0
+
+hide_and_seek is played well by sophia inside .
+['hide_and_seek', 'is', 'played', 'badly', 'by', 'sophia', 'inside', '.'] ['hide_and_seek', 'is', 'played', 'well', 'by', 'sophia', 'inside', '.']
+0.875
+
+a doll is played with by sophia outside .
+['a', 'doll', 'is', 'played', 'with', 'by', 'heidi', 'outside', '.'] ['a', 'doll', 'is', 'played', 'with', 'by', 'sophia', 'outside', '.']
+0.888888888889
+
+chess is lost by charlie .
+['chess', 'is', 'lost', 'by', 'the', 'boy', 'in', 'the', 'bedroom', '.'] ['chess', 'is', 'lost', 'by', 'the', 'boy', 'in', 'the', 'bedroom', '.']
+1.0
+
+hide_and_seek is played well in the bedroom .
+['hide_and_seek', 'is', 'played', 'well', 'in', 'the', 'bedroom', '.'] ['hide_and_seek', 'is', 'played', 'well', 'in', 'the', 'bedroom', '.']
+1.0
+
+a toy is played with by heidi inside .
+['a', 'toy', 'is', 'played', 'with', 'inside', 'by', 'heidi', '.'] ['a', 'toy', 'is', 'played', 'with', 'inside', 'by', 'heidi', '.']
+1.0
+
+a game is lost by sophia inside .
+['a', 'game', 'is', 'lost', 'by', 'sophia', 'inside', '.'] ['a', 'game', 'is', 'lost', 'by', 'sophia', 'inside', '.']
+1.0
+
+a game is lost by a girl .
+['a', 'game', 'is', 'lost', 'by', 'a', 'girl', '.'] ['a', 'game', 'is', 'lost', 'by', 'a', 'girl', '.']
+1.0
+
+hide_and_seek is played well by charlie inside .
+['hide_and_seek', 'is', 'played', 'well', 'by', 'charlie', 'in', 'the', 'bedroom', '.'] ['hide_and_seek', 'is', 'played', 'well', 'by', 'charlie', 'inside', '.']
+0.7
+
+a game is won outside .
+['a', 'game', 'is', 'won', 'outside', '.'] ['a', 'game', 'is', 'won', 'outside', '.']
+1.0
+
+hide_and_seek is played well by sophia in the bedroom .
+['hide_and_seek', 'is', 'played', 'badly', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['hide_and_seek', 'is', 'played', 'well', 'by', 'sophia', 'in', 'the', 'bedroom', '.']
+0.9
+
+hide_and_seek is played badly by charlie in the bathroom .
+['hide_and_seek', 'is', 'played', 'well', 'by', 'charlie', 'in', 'the', 'bathroom', '.'] ['hide_and_seek', 'is', 'played', 'badly', 'by', 'charlie', 'in', 'the', 'bathroom', '.']
+0.9
+
+PERFECT INSTANCES
+['a', 'game', 'is', 'played', 'well', 'by', 'a', 'girl', '.'] ['a', 'game', 'is', 'played', 'well', 'by', 'a', 'girl', '.']
+['football', 'is', 'played', 'well', 'by', 'the', 'boy', '.'] ['football', 'is', 'played', 'well', 'by', 'the', 'boy', '.']
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'someone', '.'] ['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'someone', '.']
+['chess', 'is', 'lost', 'by', 'the', 'boy', 'in', 'the', 'bedroom', '.'] ['chess', 'is', 'lost', 'by', 'the', 'boy', 'in', 'the', 'bedroom', '.']
+['hide_and_seek', 'is', 'played', 'well', 'in', 'the', 'bedroom', '.'] ['hide_and_seek', 'is', 'played', 'well', 'in', 'the', 'bedroom', '.']
+['a', 'toy', 'is', 'played', 'with', 'inside', 'by', 'heidi', '.'] ['a', 'toy', 'is', 'played', 'with', 'inside', 'by', 'heidi', '.']
+['a', 'game', 'is', 'lost', 'by', 'sophia', 'inside', '.'] ['a', 'game', 'is', 'lost', 'by', 'sophia', 'inside', '.']
+['a', 'game', 'is', 'lost', 'by', 'a', 'girl', '.'] ['a', 'game', 'is', 'lost', 'by', 'a', 'girl', '.']
+['a', 'game', 'is', 'won', 'outside', '.'] ['a', 'game', 'is', 'won', 'outside', '.']
+9
+0.642857142857
+
+ALMOST PERFECT
+['hide_and_seek', 'is', 'played', 'badly', 'by', 'sophia', 'inside', '.'] ['hide_and_seek', 'is', 'played', 'well', 'by', 'sophia', 'inside', '.']
+['a', 'doll', 'is', 'played', 'with', 'by', 'heidi', 'outside', '.'] ['a', 'doll', 'is', 'played', 'with', 'by', 'sophia', 'outside', '.']
+['hide_and_seek', 'is', 'played', 'badly', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['hide_and_seek', 'is', 'played', 'well', 'by', 'sophia', 'in', 'the', 'bedroom', '.']
+['hide_and_seek', 'is', 'played', 'well', 'by', 'charlie', 'in', 'the', 'bathroom', '.'] ['hide_and_seek', 'is', 'played', 'badly', 'by', 'charlie', 'in', 'the', 'bathroom', '.']
+4
+0.285714285714
+
+MILDLY BAD
+['hide_and_seek', 'is', 'played', 'well', 'by', 'charlie', 'in', 'the', 'bedroom', '.'] ['hide_and_seek', 'is', 'played', 'well', 'by', 'charlie', 'inside', '.']
+1
+0.0714285714286
+
+WORST INSTANCES
+0
+0.0
+
+
+0.947420634921
+
+CONDITION:5
+charlie beats heidi with difficulty outside .
+['football', 'is', 'won', 'with', 'ease', 'by', 'the', 'boy', 'in', 'the', 'street', '.'] ['charlie', 'beats', 'heidi', 'with', 'difficulty', 'outside', '.']
+0.166666666667
+
+someone beats heidi with ease in the bedroom .
+['chess', 'is', 'won', 'with', 'ease', 'by', 'someone', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'heidi', 'with', 'ease', 'in', 'the', 'bedroom', '.']
+0.545454545455
+
+heidi beats charlie in the bathroom .
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'in', 'the', 'bathroom', '.'] ['heidi', 'beats', 'charlie', 'in', 'the', 'bathroom', '.']
+0.363636363636
+
+someone beats a girl with difficulty at hide_and_seek in the bedroom .
+['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'the', 'boy', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'a', 'girl', 'with', 'difficulty', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+0.416666666667
+
+charlie beats sophia in the playground .
+['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'someone', 'in', 'the', 'playground', '.'] ['charlie', 'beats', 'sophia', 'in', 'the', 'playground', '.']
+0.363636363636
+
+sophia loses to heidi in the bedroom .
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'a', 'girl', 'in', 'the', 'bedroom', '.'] ['sophia', 'loses', 'to', 'a', 'girl', 'in', 'the', 'bedroom', '.']
+0.461538461538
+
+charlie beats sophia with difficulty outside .
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'charlie', 'in', 'the', 'street', '.'] ['charlie', 'beats', 'sophia', 'with', 'difficulty', 'outside', '.']
+0.25
+
+heidi loses to sophia in the bathroom .
+['a', 'game', 'is', 'won', 'by', 'sophia', 'in', 'the', 'bathroom', '.'] ['a', 'girl', 'loses', 'to', 'sophia', 'in', 'the', 'bathroom', '.']
+0.6
+
+charlie beats sophia inside .
+['a', 'game', 'is', 'won', 'by', 'sophia', 'inside', '.'] ['charlie', 'beats', 'sophia', 'inside', '.']
+0.375
+
+charlie loses to heidi at hide_and_seek .
+['hide_and_seek', 'is', 'lost', 'by', 'heidi', '.'] ['the', 'boy', 'loses', 'to', 'heidi', 'at', 'hide_and_seek', '.']
+0.25
+
+someone beats heidi with ease at soccer .
+['football', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'outside', '.'] ['someone', 'beats', 'heidi', 'with', 'ease', 'at', 'soccer', 'outside', '.']
+0.444444444444
+
+sophia plays .
+['a', '.'] ['sophia', 'plays', '.']
+0.333333333333
+
+heidi beats charlie in the bedroom .
+['a', 'game', 'is', 'won', 'with', 'heidi', 'in', 'the', 'bedroom', '.'] ['heidi', 'beats', 'charlie', 'in', 'the', 'bedroom', '.']
+0.4
+
+someone beats sophia with ease at hide_and_seek in the bedroom .
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'sophia', 'with', 'ease', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+0.545454545455
+
+PERFECT INSTANCES
+0
+0.0
+
+ALMOST PERFECT
+0
+0.0
+
+MILDLY BAD
+['chess', 'is', 'won', 'with', 'ease', 'by', 'someone', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'heidi', 'with', 'ease', 'in', 'the', 'bedroom', '.']
+['a', 'game', 'is', 'won', 'by', 'sophia', 'in', 'the', 'bathroom', '.'] ['a', 'girl', 'loses', 'to', 'sophia', 'in', 'the', 'bathroom', '.']
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'sophia', 'with', 'ease', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+3
+0.214285714286
+
+WORST INSTANCES
+['football', 'is', 'won', 'with', 'ease', 'by', 'the', 'boy', 'in', 'the', 'street', '.'] ['charlie', 'beats', 'heidi', 'with', 'difficulty', 'outside', '.']
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'in', 'the', 'bathroom', '.'] ['heidi', 'beats', 'charlie', 'in', 'the', 'bathroom', '.']
+['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'the', 'boy', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'a', 'girl', 'with', 'difficulty', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'someone', 'in', 'the', 'playground', '.'] ['charlie', 'beats', 'sophia', 'in', 'the', 'playground', '.']
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'a', 'girl', 'in', 'the', 'bedroom', '.'] ['sophia', 'loses', 'to', 'a', 'girl', 'in', 'the', 'bedroom', '.']
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'charlie', 'in', 'the', 'street', '.'] ['charlie', 'beats', 'sophia', 'with', 'difficulty', 'outside', '.']
+['a', 'game', 'is', 'won', 'by', 'sophia', 'inside', '.'] ['charlie', 'beats', 'sophia', 'inside', '.']
+['hide_and_seek', 'is', 'lost', 'by', 'heidi', '.'] ['the', 'boy', 'loses', 'to', 'heidi', 'at', 'hide_and_seek', '.']
+['football', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'outside', '.'] ['someone', 'beats', 'heidi', 'with', 'ease', 'at', 'soccer', 'outside', '.']
+['a', '.'] ['sophia', 'plays', '.']
+['a', 'game', 'is', 'won', 'with', 'heidi', 'in', 'the', 'bedroom', '.'] ['heidi', 'beats', 'charlie', 'in', 'the', 'bedroom', '.']
+11
+0.785714285714
+
+
+0.393987956488
+
+CONDITION:6
+someone beats heidi with ease outside .
+['someone', 'beats', 'heidi', 'with', 'ease', 'at', 'a', 'game', 'outside', '.'] ['someone', 'beats', 'heidi', 'with', 'ease', 'at', 'a', 'game', 'outside', '.']
+1.0
+
+charlie beats sophia with ease at hide_and_seek inside .
+['the', 'boy', 'beats', 'sophia', 'with', 'ease', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.'] ['the', 'boy', 'beats', 'sophia', 'with', 'ease', 'at', 'hide_and_seek', 'inside', '.']
+0.75
+
+someone beats charlie with ease outside .
+['someone', 'beats', 'the', 'boy', 'with', 'ease', 'at', 'a', 'game', 'in', 'the', 'street', '.'] ['someone', 'beats', 'the', 'boy', 'with', 'ease', 'at', 'a', 'game', 'outside', '.']
+0.769230769231
+
+someone beats charlie in the bedroom .
+['the', 'boy', 'loses', 'to', 'a', 'girl', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'the', 'boy', 'at', 'a', 'game', 'in', 'the', 'bedroom', '.']
+0.545454545455
+
+sophia beats charlie with ease in the bedroom .
+['sophia', 'beats', 'the', 'boy', 'with', 'difficulty', 'at', 'a', 'game', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'the', 'boy', 'with', 'ease', 'at', 'a', 'game', 'in', 'the', 'bedroom', '.']
+0.923076923077
+
+heidi beats charlie with ease in the bathroom .
+['heidi', 'beats', 'the', 'boy', 'with', 'difficulty', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.'] ['heidi', 'beats', 'the', 'boy', 'with', 'ease', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.']
+0.916666666667
+
+someone beats a girl at hide_and_seek in the bedroom .
+['a', 'girl', 'loses', 'to', 'someone', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'a', 'girl', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+0.545454545455
+
+charlie beats sophia with ease inside .
+['the', 'boy', 'beats', 'sophia', 'with', 'ease', 'at', 'a', 'game', 'inside', '.'] ['the', 'boy', 'beats', 'sophia', 'with', 'ease', 'at', 'a', 'game', 'inside', '.']
+1.0
+
+someone loses to sophia in the bathroom .
+['sophia', 'beats', 'someone', 'in', 'the', 'bathroom', '.'] ['someone', 'loses', 'to', 'sophia', 'in', 'the', 'bathroom', '.']
+0.5
+
+sophia beats heidi with difficulty at chess .
+['sophia', 'beats', 'heidi', 'with', 'ease', 'at', 'a', 'game', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'chess', 'in', 'the', 'bedroom', '.']
+0.75
+
+someone beats charlie with difficulty outside .
+['a', 'girl', 'beats', 'the', 'boy', 'with', 'difficulty', 'at', 'football', 'in', 'the', 'street', '.'] ['a', 'girl', 'beats', 'the', 'boy', 'with', 'difficulty', 'at', 'a', 'game', 'outside', '.']
+0.692307692308
+
+sophia beats heidi with difficulty at hide_and_seek inside .
+['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'inside', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'inside', '.']
+1.0
+
+heidi beats sophia with difficulty at soccer .
+['heidi', 'beats', 'sophia', 'with', 'difficulty', 'at', 'soccer', '.'] ['heidi', 'beats', 'sophia', 'with', 'difficulty', 'at', 'soccer', '.']
+1.0
+
+sophia beats heidi with difficulty at hide_and_seek in the bedroom .
+['sophia', 'beats', 'heidi', 'with', 'ease', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+0.909090909091
+
+PERFECT INSTANCES
+['someone', 'beats', 'heidi', 'with', 'ease', 'at', 'a', 'game', 'outside', '.'] ['someone', 'beats', 'heidi', 'with', 'ease', 'at', 'a', 'game', 'outside', '.']
+['the', 'boy', 'beats', 'sophia', 'with', 'ease', 'at', 'a', 'game', 'inside', '.'] ['the', 'boy', 'beats', 'sophia', 'with', 'ease', 'at', 'a', 'game', 'inside', '.']
+['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'inside', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'inside', '.']
+['heidi', 'beats', 'sophia', 'with', 'difficulty', 'at', 'soccer', '.'] ['heidi', 'beats', 'sophia', 'with', 'difficulty', 'at', 'soccer', '.']
+4
+0.285714285714
+
+ALMOST PERFECT
+['sophia', 'beats', 'the', 'boy', 'with', 'difficulty', 'at', 'a', 'game', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'the', 'boy', 'with', 'ease', 'at', 'a', 'game', 'in', 'the', 'bedroom', '.']
+['heidi', 'beats', 'the', 'boy', 'with', 'difficulty', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.'] ['heidi', 'beats', 'the', 'boy', 'with', 'ease', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.']
+['sophia', 'beats', 'heidi', 'with', 'ease', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+3
+0.214285714286
+
+MILDLY BAD
+['the', 'boy', 'beats', 'sophia', 'with', 'ease', 'at', 'hide_and_seek', 'in', 'the', 'bathroom', '.'] ['the', 'boy', 'beats', 'sophia', 'with', 'ease', 'at', 'hide_and_seek', 'inside', '.']
+['someone', 'beats', 'the', 'boy', 'with', 'ease', 'at', 'a', 'game', 'in', 'the', 'street', '.'] ['someone', 'beats', 'the', 'boy', 'with', 'ease', 'at', 'a', 'game', 'outside', '.']
+['the', 'boy', 'loses', 'to', 'a', 'girl', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'the', 'boy', 'at', 'a', 'game', 'in', 'the', 'bedroom', '.']
+['a', 'girl', 'loses', 'to', 'someone', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.'] ['someone', 'beats', 'a', 'girl', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+['sophia', 'beats', 'someone', 'in', 'the', 'bathroom', '.'] ['someone', 'loses', 'to', 'sophia', 'in', 'the', 'bathroom', '.']
+['sophia', 'beats', 'heidi', 'with', 'ease', 'at', 'a', 'game', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'chess', 'in', 'the', 'bedroom', '.']
+['a', 'girl', 'beats', 'the', 'boy', 'with', 'difficulty', 'at', 'football', 'in', 'the', 'street', '.'] ['a', 'girl', 'beats', 'the', 'boy', 'with', 'difficulty', 'at', 'a', 'game', 'outside', '.']
+7
+0.5
+
+WORST INSTANCES
+0
+0.0
+
+
+0.807234432234
+
+CONDITION:7
+someone beats heidi with ease outside .
+['a', 'game', 'is', 'won', 'with', 'ease', 'by', 'someone', 'outside', '.'] ['someone', 'beats', 'heidi', 'with', 'ease', 'outside', '.']
+0.4
+
+charlie beats sophia with ease at hide_and_seek inside .
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['charlie', 'beats', 'sophia', 'with', 'ease', 'at', 'hide_and_seek', 'inside', '.']
+0.272727272727
+
+someone beats charlie with ease outside .
+['a', 'game', 'is', 'won', 'with', 'ease', 'by', 'charlie', '.'] ['a', 'girl', 'beats', 'charlie', 'with', 'ease', 'outside', '.']
+0.444444444444
+
+someone beats charlie in the bedroom .
+['a', 'game', 'is', 'won', 'by', 'charlie', 'in', 'the', 'bedroom', '.'] ['a', 'girl', 'beats', 'charlie', 'in', 'the', 'bedroom', '.']
+0.6
+
+sophia beats charlie with ease in the bedroom .
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'charlie', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'charlie', 'with', 'ease', 'in', 'the', 'bedroom', '.']
+0.416666666667
+
+heidi beats charlie with ease in the bathroom .
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'in', 'the', 'playground', '.'] ['heidi', 'beats', 'charlie', 'with', 'ease', 'in', 'the', 'bathroom', '.']
+0.454545454545
+
+someone beats a girl at hide_and_seek in the bedroom .
+['hide_and_seek', 'is', 'lost', 'by', 'heidi', 'inside', '.'] ['someone', 'beats', 'a', 'girl', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+0.1
+
+charlie beats sophia with ease inside .
+['a', 'game', 'is', 'won', 'with', 'ease', 'by', 'charlie', 'in', 'the', 'bedroom', '.'] ['charlie', 'beats', 'sophia', 'with', 'ease', 'inside', '.']
+0.25
+
+someone loses to sophia in the bathroom .
+['hide_and_seek', 'is', 'won', 'by', 'sophia', 'inside', '.'] ['someone', 'loses', 'to', 'sophia', 'in', 'the', 'bathroom', '.']
+0.125
+
+sophia beats heidi with difficulty at chess .
+['chess', 'is', 'won', 'with', 'ease', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'chess', 'in', 'the', 'bedroom', '.']
+0.454545454545
+
+someone beats charlie with difficulty outside .
+['a', 'game', 'is', 'won', 'with', 'ease', 'by', 'charlie', '.'] ['a', 'girl', 'beats', 'charlie', 'with', 'difficulty', 'outside', '.']
+0.333333333333
+
+sophia beats heidi with difficulty at hide_and_seek inside .
+['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'sophia', 'in', 'the', 'bathroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'inside', '.']
+0.272727272727
+
+heidi beats sophia with difficulty at soccer .
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'heidi', 'in', 'the', 'street', '.'] ['a', 'girl', 'beats', 'sophia', 'with', 'difficulty', 'in', 'the', 'street', '.']
+0.583333333333
+
+sophia beats heidi with difficulty at hide_and_seek in the bedroom .
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+0.454545454545
+
+PERFECT INSTANCES
+0
+0.0
+
+ALMOST PERFECT
+0
+0.0
+
+MILDLY BAD
+['a', 'game', 'is', 'won', 'by', 'charlie', 'in', 'the', 'bedroom', '.'] ['a', 'girl', 'beats', 'charlie', 'in', 'the', 'bedroom', '.']
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'heidi', 'in', 'the', 'street', '.'] ['a', 'girl', 'beats', 'sophia', 'with', 'difficulty', 'in', 'the', 'street', '.']
+2
+0.142857142857
+
+WORST INSTANCES
+['a', 'game', 'is', 'won', 'with', 'ease', 'by', 'someone', 'outside', '.'] ['someone', 'beats', 'heidi', 'with', 'ease', 'outside', '.']
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['charlie', 'beats', 'sophia', 'with', 'ease', 'at', 'hide_and_seek', 'inside', '.']
+['a', 'game', 'is', 'won', 'with', 'ease', 'by', 'charlie', '.'] ['a', 'girl', 'beats', 'charlie', 'with', 'ease', 'outside', '.']
+['a', 'game', 'is', 'won', 'with', 'difficulty', 'by', 'charlie', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'charlie', 'with', 'ease', 'in', 'the', 'bedroom', '.']
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'heidi', 'in', 'the', 'playground', '.'] ['heidi', 'beats', 'charlie', 'with', 'ease', 'in', 'the', 'bathroom', '.']
+['hide_and_seek', 'is', 'lost', 'by', 'heidi', 'inside', '.'] ['someone', 'beats', 'a', 'girl', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+['a', 'game', 'is', 'won', 'with', 'ease', 'by', 'charlie', 'in', 'the', 'bedroom', '.'] ['charlie', 'beats', 'sophia', 'with', 'ease', 'inside', '.']
+['hide_and_seek', 'is', 'won', 'by', 'sophia', 'inside', '.'] ['someone', 'loses', 'to', 'sophia', 'in', 'the', 'bathroom', '.']
+['chess', 'is', 'won', 'with', 'ease', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'chess', 'in', 'the', 'bedroom', '.']
+['a', 'game', 'is', 'won', 'with', 'ease', 'by', 'charlie', '.'] ['a', 'girl', 'beats', 'charlie', 'with', 'difficulty', 'outside', '.']
+['hide_and_seek', 'is', 'won', 'with', 'difficulty', 'by', 'sophia', 'in', 'the', 'bathroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'inside', '.']
+['hide_and_seek', 'is', 'won', 'with', 'ease', 'by', 'sophia', 'in', 'the', 'bedroom', '.'] ['sophia', 'beats', 'heidi', 'with', 'difficulty', 'at', 'hide_and_seek', 'in', 'the', 'bedroom', '.']
+12
+0.857142857143
+
+
+0.368704906205
